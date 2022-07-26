@@ -1,90 +1,90 @@
 Adamowo
 Bartoszyce
 Braniewo
-Dzia³dowo
-Elbl¹g
-E³k
-Gi¿ycko
-Go³dap
-I³awa
-Kêtrzyn
-Lidzbark Warmiñski
-Mr¹gowo
+DziaÅ‚dowo
+ElblÄ…g
+EÅ‚k
+GiÅ¼ycko
+GoÅ‚dap
+IÅ‚awa
+KÄ™trzyn
+Lidzbark WarmiÅ„ski
+MrÄ…gowo
 Nidzica
 Nowe Miasto Lubawskie
 Olecko
 Olsztyn
-Ostróda
-Pêciszewo
-Pêglity
-Pêklewo
+OstrÃ³da
+PÄ™ciszewo
+PÄ™glity
+PÄ™klewo
 Pisz
-P³awty Wielkie
-P³ociczno
-P³onne
-P³oskinia
-P³oœnica
-P³owce
-P³ozy
-P³utniki
-Pólko
-Pólko
-Pó³wieœ
-Pó³wiosek
-Pr¹tnica
-Prêgowo
-Prêtki
-Prêt³awki
-Próle
+PÅ‚awty Wielkie
+PÅ‚ociczno
+PÅ‚onne
+PÅ‚oskinia
+PÅ‚oÅ›nica
+PÅ‚owce
+PÅ‚ozy
+PÅ‚utniki
+PÃ³lko
+PÃ³lko
+PÃ³Å‚wieÅ›
+PÃ³Å‚wiosek
+PrÄ…tnica
+PrÄ™gowo
+PrÄ™tki
+PrÄ™tÅ‚awki
+PrÃ³le
 Prusinowo
 Pruski
 Prusowo
 Prusowy Borek
 Prusy
 Prynowo
-Przebêdowo
+PrzebÄ™dowo
 Przeczniak
-Prze³êk
-Przeroœl Go³dapska
+PrzeÅ‚Ä™k
+PrzeroÅ›l GoÅ‚dapska
 Przerwanki
-Przes³awki
+PrzesÅ‚awki
 Przewarszyty
-PrzeŸdziêk Ma³y
-PrzeŸdziêk Wielki
+PrzeÅºdziÄ™k MaÅ‚y
+PrzeÅºdziÄ™k Wielki
 Przezmark
 Przezmark-Osiedle
-Przyby³owo
+PrzybyÅ‚owo
 Przykop
 Przykopiec
 Przykopka
-Przyl¹dek
-Przystañ
-Przytu³y
-Przytu³y
-Przytu³y
-Przytu³y
-Pucha³owo
-Puchówka
-Pudl¹g
+PrzylÄ…dek
+PrzystaÅ„
+PrzytuÅ‚y
+PrzytuÅ‚y
+PrzytuÅ‚y
+PrzytuÅ‚y
+PuchaÅ‚owo
+PuchÃ³wka
+PudlÄ…g
 Pudlikajmy
 Pupki
 Pupki
 Purda
-Purda Leœna
+Purda LeÅ›na
 Purdka
-Purga³ki
+PurgaÅ‚ki
 Pustki
 Pustniki
 Rachowo
 Raciszewo
 Raczek
-Raczki Elbl¹skie
+Raczki ElblÄ…skie
 Raczki Wielkie
 Radkiejmy
 Radomek
 Radomin
 Radomno
-Radoski Dwór
+Radoski DwÃ³r
 Radostowo
 Radostowo
 Radosty
@@ -95,21 +95,21 @@ Radzieje
 Radziejewo
 Radziszewo
 Raj
-Rakówek
+RakÃ³wek
 Rakowice
 Rakowo
-Rakowo Ma³e
+Rakowo MaÅ‚e
 Rakowo Piskie
 Ramoty
-Ramsówko
+RamsÃ³wko
 Ramsowo
 Ramty
-Rañsk
+RaÅ„sk
 Ranty
 Rapa
 Rapaty
 Rapaty
-Rasz¹g
+RaszÄ…g
 Redaki
 Redy
 Redykajny
@@ -149,12 +149,12 @@ Rogiedle
 Rogielkajmy
 Rogity
 Rogojny
-Rogówko
+RogÃ³wko
 Rogowo
 Rogowo
 Rogowszczyzna
-Rogó¿
-Rogó¿
+RogÃ³Å¼
+RogÃ³Å¼
 Roje
 Rokitnik
 Rolki
@@ -174,18 +174,18 @@ Rostki
 Rostki
 Rostki Bajtkowskie
 Rostki Skomackie
-Rozdro¿e
-Ro¿ental
+RozdroÅ¼e
+RoÅ¼ental
 Rozgart
 Rozgity
-Ro¿nowo
+RoÅ¼nowo
 Rozogi
 Rozogi
 Rozwady
-Ro¿yñsk
-Ro¿yñsk Ma³y
-Ro¿yñsk Wielki
-Ro¿yñsk Wielki
+RoÅ¼yÅ„sk
+RoÅ¼yÅ„sk MaÅ‚y
+RoÅ¼yÅ„sk Wielki
+RoÅ¼yÅ„sk Wielki
 Rucewo
 Ruciane-Nida
 Rucianka
@@ -194,7 +194,7 @@ Ruda
 Ruda
 Ruda
 Rudka
-Rud³owo
+RudÅ‚owo
 Rudnia
 Rudniki
 Rudno
@@ -204,22 +204,22 @@ Rudzienice
 Rudziska
 Rudziska Pasymskie
 Rudziszki
-Ruk³awki
+RukÅ‚awki
 Rumian
 Rumienica
 Rumy
 Runowo
-Ruœ
-Ruœ
+RuÅ›
+RuÅ›
 Rusajny
-Rusek Ma³y
+Rusek MaÅ‚y
 Rusek Wielki
-Ruska Wieœ
-Ruska Wieœ
-Ruska Wieœ
-Ruski Bór
+Ruska WieÅ›
+Ruska WieÅ›
+Ruska WieÅ›
+Ruski BÃ³r
 Ruskowo
-Ruœ Ma³a
+RuÅ› MaÅ‚a
 Rusy
 Ruszajny
 Ruszkowo
@@ -240,25 +240,25 @@ Rychliki
 Rychnowo
 Rychnowska Wola
 Rychnowy
-Rycyba³t
-Ryczywó³
-Rydw¹gi
+RycybaÅ‚t
+RyczywÃ³Å‚
+RydwÄ…gi
 Rydzewo
 Rygarby
 Skarbkowo
 Skarlin
 Skarpa
-Skar¿yn
+SkarÅ¼yn
 Skierki
-Skit³awki
+SkitÅ‚awki
 Skitno
 Skocze
 Skoczewo
 Skolimowo
 Skolity
-Skomack Ma³y
+Skomack MaÅ‚y
 Skomack Wielki
-Skomêtno Wielkie
+SkomÄ™tno Wielkie
 Skop
 Skorupki
 Skowronki
@@ -269,13 +269,13 @@ Skup
 Smolajny
 Smolanek
 Smolanka
-Smolany-¯ardawy
-Smoleñ
+Smolany-Å»ardawy
+SmoleÅ„
 Smolnik
 Smolniki
-Smolniki-Nadleœnictwo
+Smolniki-NadleÅ›nictwo
 Smolno
-Smykówko
+SmykÃ³wko
 Smykowo
 Snopki
 Sobiechy
@@ -284,17 +284,17 @@ Sobno
 Sobole
 Sochy
 Sokolica
-Sokó³ka
-Sokó³ki
-Sokó³ki
+SokÃ³Å‚ka
+SokÃ³Å‚ki
+SokÃ³Å‚ki
 Sokolnik
-Soko³y
-Soko³y
-Soko³y Jeziorne
+SokoÅ‚y
+SokoÅ‚y
+SokoÅ‚y Jeziorne
 Solanka
 Solkieniki
 Solniki
 Solno
 Sople
 Szczytno
-Wêgorzewo
+WÄ™gorzewo
