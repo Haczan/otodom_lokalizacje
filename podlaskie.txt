@@ -1,40 +1,40 @@
 Achrymowce
-AugustÛw
-Bia≥ystok
+August√≥w
+Bia≈Çystok
 Bielsk Podlaski
 Grajewo
-HajnÛwka
+Hajn√≥wka
 Kolno
-£omøa
-MoÒki
-PÍchratka Polska
-PÍsy-Lipno
-PÍza
-PÍzy
-P≥aska
-P≥ochowo
-P≥ociczno
-P≥ociczno-Osiedle
-P≥ociczno-Tartak
-P≥onka Koúcielna
-P≥onka-Koz≥y
-P≥onka-Matyski
-P≥onka-Strumianka
-P≥onowo
-P≥oskie
-PoÊkuny
-PÛlko
-PÛ≥koty
-Po≥omin
-Po≥omin-Kolonia
-Po≥owce
+≈Åom≈ºa
+Mo≈Ñki
+Pƒôchratka Polska
+Pƒôsy-Lipno
+Pƒôza
+Pƒôzy
+P≈Çaska
+P≈Çochowo
+P≈Çociczno
+P≈Çociczno-Osiedle
+P≈Çociczno-Tartak
+P≈Çonka Ko≈õcielna
+P≈Çonka-Koz≈Çy
+P≈Çonka-Matyski
+P≈Çonka-Strumianka
+P≈Çonowo
+P≈Çoskie
+Poƒákuny
+P√≥lko
+P√≥≈Çkoty
+Po≈Çomin
+Po≈Çomin-Kolonia
+Po≈Çowce
 Posejny
 Posielanie
 Postawele
 Postawelek
-Posto≥owo
-PoúwiÍtne
-PoúwiÍtne
+Posto≈Çowo
+Po≈õwiƒôtne
+Po≈õwiƒôtne
 Poszeszupie
 Poszeszupie-Folwark
 Potasie
@@ -43,66 +43,66 @@ Potoczyzna
 Potoka
 Potopy
 Potrubowszczyzna
-Powa≥y
+Powa≈Çy
 Prawy Las
 Progale
 Prohalino
 Promiski
 Proniewicze
 Protasy
-Prowa≥y
+Prowa≈Çy
 Prudziszki
 Pruska
-Pruska Ma≥a
+Pruska Ma≈Ça
 Pruska Wielka
 Pruszanka-Baranki
-Pruszanka Ma≥a
+Pruszanka Ma≈Ça
 Pruszanka Stara
 Pruszki Wielkie
-PrzebrÛd
+Przebr√≥d
 Przechody
 Przechody
 Przejma
-Przejma Ma≥a
+Przejma Ma≈Ça
 Przejma Wielka
 Przejma Wysoka
-Prze≥omka
-Przeroúl
-Przes≥awka
+Prze≈Çomka
+Przero≈õl
+Przes≈Çawka
 Przestrzele
 Przestrzele
 Przewalanka
-PrzewiÍü
-Przew≥oka
-Przeüdziecko-Drogoszewo
-Przeüdziecko-Mroczki
+Przewiƒô≈∫
+Przew≈Çoka
+Prze≈∫dziecko-Drogoszewo
+Prze≈∫dziecko-Mroczki
 Przyborowo
 Przybudki
 Przybyszyn
 Przystajne
-PrzystawaÒce
+Przystawa≈Ñce
 Przystawka
 Przytulanka
-Przytu≥y
-Przytu≥y-Kolonia
-Przytu≥y-Las
-Pstrπgi-Gniewoty
-PszczÛ≥czyn
+Przytu≈Çy
+Przytu≈Çy-Kolonia
+Przytu≈Çy-Las
+PstrƒÖgi-Gniewoty
+Pszcz√≥≈Çczyn
 Ptaki
 Ptaki
-Pucha≥y
-Pucha≥y Nowe
-Pucha≥y Stare
-Puch≥y
-Puci≥ki
+Pucha≈Çy
+Pucha≈Çy Nowe
+Pucha≈Çy Stare
+Puch≈Çy
+Puci≈Çki
 Puciska
-Pude≥ko
-Pu≥azie-åwierøe
+Pude≈Çko
+Pu≈Çazie-≈öwier≈ºe
 Pulsze
-PuÒsk
+Pu≈Ñsk
 Pupki
 Putkowice Nadolne
-Putkowice NagÛrne
+Putkowice Nag√≥rne
 Putnowce
 Pyzy
 Rabalina
@@ -115,21 +115,21 @@ Radule
 Radunin
 Radwany-Zaorze
 Radzie
-Radzi≥Ûw
-Radzi≥Ûw-Kolonia
-Radziszewo-KrÛle
-Radziszewo-SieÒczuch
+Radzi≈Ç√≥w
+Radzi≈Ç√≥w-Kolonia
+Radziszewo-Kr√≥le
+Radziszewo-Sie≈Ñczuch
 Radziszewo-Sobiechowo
 Radziszewo Stare
 Radziucie
 Radziuszki
-Radziwi≥≥Ûwka
-Radüki
-Rafa≥Ûwka
-RajgrÛd
+Radziwi≈Ç≈Ç√≥wka
+Rad≈∫ki
+Rafa≈Ç√≥wka
+Rajgr√≥d
 Rajki
 Rajsk
-RakÛwek
+Rak√≥wek
 Rakowicze
 Rakowicze
 Rakowo
@@ -141,7 +141,7 @@ Ratowo-Piotrowo
 Reduty
 Rejsztokiemie
 Rekle
-RemieÒkiÒ
+Remie≈Ñki≈Ñ
 Repczyce
 Reszki
 Reszkowce
@@ -152,42 +152,42 @@ Rogawka
 Rogienice Piaseczne
 Rogienice Wielkie
 Rogienice-Wypychy
-RogÛwek
+Rog√≥wek
 Rogowo
 Rogowo
 Rogowo-Kolonia
-Rogowo-Majπtek
-Rogoøajny Ma≥e
-Rogoøajny Wielkie
-RogoziÒski Most
-Rogoøynek
+Rogowo-MajƒÖtek
+Rogo≈ºajny Ma≈Çe
+Rogo≈ºajny Wielkie
+Rogozi≈Ñski Most
+Rogo≈ºynek
 Romaniuki
 Romanowce
-RomanÛwka
-RomanÛwka
-RomanÛwka
+Roman√≥wka
+Roman√≥wka
+Roman√≥wka
 Romanowo
 Romany
 Romejki
 Rosochate
-Rosochate Koúcielne
-Rosochate Narto≥ty
-Rosochaty RÛg
+Rosochate Ko≈õcielne
+Rosochate Narto≈Çty
+Rosochaty R√≥g
 Rospuda
 Rostki
 Rostki
-Rosto≥ty
+Rosto≈Çty
 Roszki-Chrzczony
-Roszki Leúne
-Roszki-Sπczki
-Roszki-W≥odki
-Roszki-Wodüki
+Roszki Le≈õne
+Roszki-SƒÖczki
+Roszki-W≈Çodki
+Roszki-Wod≈∫ki
 Roszki-Ziemaki
 Rotki
 Rowek
 Rowele
 Rubcowo
-RubinÛwka
+Rubin√≥wka
 Ruda
 Ruda
 Ruda
@@ -209,7 +209,7 @@ Rumejki
 Rumiejki
 Runice
 Rupin
-Ruú
+Ru≈õ
 Rusaki
 Rusiniec
 Ruszczany
@@ -225,14 +225,14 @@ Rutki-Nowiny
 Rutki Stare
 Rutki-Tartak Nowy
 Rutkowskie
-Rutkowskie Duøe
-Rutkowskie Ma≥e
+Rutkowskie Du≈ºe
+Rutkowskie Ma≈Çe
 Rutkowszczyzna
 Rybaki
 Rybczyzna
 Sejny
 Siemiatycze
-SiÛ≥ko
+Si√≥≈Çko
 Sitawka
 Sitkowo
 Siwiki
@@ -245,26 +245,26 @@ Skidlewo
 Skieblewo
 Skierwiny
 Skindzierz
-Skiwy Duøe
-Skiwy Ma≥e
-Sk≥ody Borowe
-Sk≥ody-Przyrusy
-SkÛrzec
+Skiwy Du≈ºe
+Skiwy Ma≈Çe
+Sk≈Çody Borowe
+Sk≈Çody-Przyrusy
+Sk√≥rzec
 Skroblaki
-Skroda Ma≥a
+Skroda Ma≈Ça
 Skroda Wielka
 Skrodzkie
 Skrybicze
-Skrzypki Duøe
-Skrzypki Ma≥e
+Skrzypki Du≈ºe
+Skrzypki Ma≈Çe
 Skupowo
 Skustele
 Smarklice
-SmogorÛwka Dolistowska
-SmogorÛwka Goniπdzka
+Smogor√≥wka Dolistowska
+Smogor√≥wka GoniƒÖdzka
 Smolanka
 Smolany
-Smolany Dπb
+Smolany DƒÖb
 Smolenka
 Smolnica
 Smolniki
@@ -275,26 +275,26 @@ Sobieski
 Sobolewo
 Sobolewo
 Sobolewo
-SobÛtka
+Sob√≥tka
 Soce
 Sochonie
 Sofipol
 Sojczyn Borowy
 Sojczynek
-Sojczyn Grπdowy
+Sojczyn GrƒÖdowy
 Sokolany
-Soko≥da
+Soko≈Çda
 Sokole
-SokÛ≥ka
+Sok√≥≈Çka
 Sokolne
-Soko≥owo
-Soko≥y
+Soko≈Çowo
+Soko≈Çy
 Stankowicze
 Stankuny
 Stanowisko
-Stara ChmielÛwka
-Stara DÍbszczyzna
+Stara Chmiel√≥wka
+Stara Dƒôbszczyzna
 Stara Kubra
-Suwa≥ki
+Suwa≈Çki
 Wysokie Mazowieckie
-ZambrÛw
+Zambr√≥w
