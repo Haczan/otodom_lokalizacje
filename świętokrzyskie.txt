@@ -1,0 +1,300 @@
+Adamczowice
+Busko-Zdrój
+Jêdrzejów
+Kazimierza Wielka
+Kielce
+Koñskie
+Opatów
+Ostrowiec Œwiêtokrzyski
+P¹gowiec
+Pêchów
+Pêchowiec
+Pêc³awice Górne
+Pêczelice
+Pêczyny
+Pêkos³aw
+Pêkos³awice
+Pêpice
+Pêtkowice
+Piñczów
+P³aczków
+P³aczkowice
+P³oœnia
+P³ucki
+Prz¹s³aw Ma³y
+Przy³êk
+Psary
+Psary-K¹ty
+Psary-Kolonia
+Psary-Pod³azy
+Psary-Stara Wieœ
+Pu³aczów
+R¹czki
+Raczyce
+Radków
+Radkowice
+Radkowice
+Radkowice-Kolonia
+Radlin
+Radomek
+Radomice
+Radoska
+Radostów
+Radoszki
+Radoszyce
+Radwan
+Radwanów
+Radwanów-Kolonia
+Radzanów
+Rajchotka
+Rakoszyn
+Raków
+Raków
+Rakówka
+Raszków
+Rataje
+Rataje Karskie
+Rataje S³upskie
+Rawka
+Rêbów
+Rêdocin
+Rêdziny
+Rejowiec
+Rejterówka
+Rembiechowa
+Rembieszyce
+Rembów
+Rogacz
+Rogalów
+Rogienice
+Rogów
+Rogów
+Rogówek
+Rogowice
+Romanów
+Romanówka
+Ropocice
+Rosiejów
+Rosochy
+Rosochy
+Roso³ówka
+Równiny
+Rozgó³
+Ro¿ki
+Ro¿nica
+Roztylice
+Ruczynów
+Ruda
+Ruda
+Ruda
+Ruda Bia³aczowska
+Ruda Koœcielna
+Ruda Maleniecka
+Ruda Pilczycka
+Ruda Strawczyñska
+Rudawa
+Ruda Zaj¹czkowska
+Rudka
+Rudka
+Rudka Ba³towska
+Rudki
+Rudki
+Rudnik
+Rudnik
+Rudniki
+Rudniki
+Rudniki
+Rudzisko
+Ruszcza
+Ruszcza-Kêpa
+Ruszcza-Kolonia
+Ruszcza-P³aszczyzna
+Ruszków
+Ruszkowiec
+Rybitwy
+Rybnica
+Rykoszyn
+Ry³owice
+Rytlów
+Rytwiany
+Rz¹biec
+Rzeczyca Mokra
+Rzeczyca Sucha
+Rzêdów
+Rzegocin
+Rzemienowice
+Rzepin Drugi
+Rzepinek
+Rzepin-Kolonia
+Rzepin Pierwszy
+Rzeszówek
+Rzeszutki
+Rzewuszyce
+R¿uchów
+Sadek
+Sadki
+Sadków
+Sadkówka
+Sad³owice
+Sadowie
+Salachowy Bór
+Salata
+Samborzec
+Samostrza³ów
+Samsonów
+Samsonów-Ci¹g³e
+Samsonów-Dudków
+Samsonów-Komorniki
+Samsonów-Piechotne
+Sancygniów
+Sandomierz
+Sarbice Drugie
+Sarbice Pierwsze
+Sarnia Zwola
+Sarnówek Du¿y
+Sarnówek Ma³y
+Secemin
+Senis³awice
+Serbinów
+Serwis
+Sichów Du¿y
+Sichów Ma³y
+Sieczków
+Siedlce
+Siekierno-Podmieœcie
+Siekierno-Przedgrab
+Sielec
+Sielec
+Sielec
+Sielec Biskupi
+Sielec-Kolonia
+Sielpia Ma³a
+Sielpia Wielka
+Sieñsko
+Sieradowice Drugie
+Sieradowice-Parcele
+Sieradowice Pierwsze
+Sieradzice
+Sieraków
+Sieros³awice
+Sies³awice
+Sietejów
+Silpia Du¿a
+Silpia Ma³a
+Siod³a
+Sitkówka
+Skadla
+Ska³a-Gajówka
+Skalbmierz
+Ska³ecznica
+Ska³y
+Sk¹pe
+Skarbka
+Skarszyny
+Skar¿ysko-Kamienna
+Skar¿ysko Koœcielne
+Skiby
+Skociszewy
+Skoki
+Skolankowska Wola
+Skorczów
+Skorków
+Skórnice
+Skorocice
+Skorzeszyce
+Skorzów
+Skotniki
+Skrzelczyce
+Skrzypaczowice
+Skrzypiec
+Skrzypiów
+Skrzyszów
+Skwirzowa
+Smarków
+Smerdyna
+Smogorzów
+Smugi
+Smugi
+Smyków
+Smyków
+Snochowice
+Sobków
+Sobków-Nida
+Soboszów
+Sobótka
+Sobótka
+Sobów
+Sobowice
+Sokolina
+Soko³ów Dolny
+Soko³ów Górny
+Solec
+Solec-Zdrój
+So³tyków
+Sorbin
+Soœniczany
+Sosnowiec
+Sosnówka
+Sprowa
+Sroczków
+Stachura
+Stadnicka Wola
+Staniowice
+Stanis³awów
+Stanowiska
+Stanowiska
+Starachowice
+Stara Dêbowa Wola
+Stara Góra
+Stara KuŸnica
+Stara £agowica
+Stara Olszówka
+Stara S³upia
+Stara Wieœ
+Stara Zagoœæ
+Stara Zbelutka
+Stare Kanice
+Stare Kichary
+Stare Kotlice
+Stare Pole
+Starochêciny
+Stary Bostów
+Stary Dzieba³tów
+Stary Gaj
+Stary Garbów
+Stary Grzybów
+Stary Janów
+Stary Jawor
+Stary Kazanów
+Stary Korczyn
+Stary Soko³ów
+Stary Wêgrzynów
+Starzechowice
+Staszów
+Stawiany
+Stawiszyce
+Staw Kunowski
+Stawy
+Stawy-Sieragi
+Stefania
+Stefanówek
+Sternalice
+Stobiec
+Stodo³y-Kolonie
+Stodo³y-Wieœ
+Stojanowice
+Stojewsko
+Stoki
+Stoki Du¿e
+Stoki Ma³e
+Stoki Stare
+Stomorgi
+Stopnica
+Stradlice
+Stradów
+Straszów
+Strawczyn
+Strawczynek
+Stra¿nica
+Stra¿nik
+W³oszczowa

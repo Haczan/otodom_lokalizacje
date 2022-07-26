@@ -1,0 +1,300 @@
+Adamierz
+Bochnia
+Brzesko
+Chrzanów
+D¹browa Tarnowska
+Gorlice
+Kraków
+Limanowa
+Miechów
+Myœlenice
+Nowy S¹cz
+Nowy Targ
+Olkusz
+O³piny
+Ostrê¿nica
+Ostrów
+Ostrów
+Ostrów Królewski
+Ostrowsko
+Ostrów Szlachecki
+Oœwiêcim
+Otfinów
+Owczarnia
+Owczary
+Owczary
+Owieczka
+Paczó³towice
+Pagorzyna
+Palcza
+Palczowice
+Pa³ecznica
+Paleœnica
+Pamiêcice
+Parcelacja
+Parkoszowice
+Pasieka Otfinowska
+Pasierbiec
+Pasternik
+Paszkówka
+Paszyn
+Pawêzów
+Pawlikowice
+Paw³ów
+Pazurek
+Pêkowice
+Pi¹tkowa
+Pietrzejowice
+Pi³a Koœcielecka
+Piotrkowice Ma³e
+Piotrkowice Wielkie
+Piotrowice
+Piotrowice
+Pisary
+Pisarzowa
+Piwniczna-Zdrój
+P³awna
+P³awowice
+P³awy
+P³aza
+P³oki
+Pó³wieœ
+Proszowice
+Pstroszyce Pierwsze
+Raba Ni¿na
+Raba Wy¿na
+Rabka-Zdrój
+R¹bkowa
+Rabsztyn
+Rachwa³owice
+Raciborowice
+Raciborsko
+Raciechowice
+Rac³awice
+Rac³awice
+Rac³awice
+R¹czna
+Radgoszcz
+Radlna
+Rad³ów
+Radocyna
+Radocza
+Radwan
+Radwanowice
+Radziemice
+Radziszów
+Rajbrot
+Rajsko
+Rajsko
+Raszówek
+Ratajów
+Ratu³ów
+Rawa³owice
+Rdzawa
+Rdzawka
+Rdziostów
+Rêdziny
+Rêdziny-Borek
+Rêdziny Zbigalskie
+Regietów
+Regulice
+Roczyny
+Rodaki
+Rogi
+Rogów
+RogoŸnik
+Rokiciny Podhalañskie
+Roków
+Ropa
+Ropica Górna
+Ropica Polska
+Ropki
+Rozdziele
+Rozdziele
+Rozkochów
+Ro¿nów
+Ro¿nowa
+Ro¿nowice
+Roztoka
+Roztoka
+Roztoka
+Roztoka-Brzeziny
+Roztoka Ryterska
+Roztoka Wielka
+Ruda Kameralna
+Rudawa
+Rudka
+Rudnik
+Rudno
+Rudno Dolne
+Rudno Górne
+Rudy-Rysie
+Rudze
+Rupniów
+Rusocice
+Rybna
+Rychwa³d
+Ryczów
+Ryczówek
+Ryglice
+Rylowa
+Rytro
+Rz¹chowa
+Rz¹ska
+Rzêdowice
+Rzêdowice
+Rzemiêdzice
+Rzepiennik Biskupi
+Rzepiennik Marciszewski
+Rzepiennik Strzy¿ewski
+Rzepiennik Suchy
+Rzepiska
+Rzeplin
+Rzepowskie
+Rzeszotary
+Rzezawa
+Rze¿uœnia
+Rzozów
+Rzuchowa
+Rzyki
+Sadek
+Sadowie
+Samocice
+Sanka
+Sanoka
+Sawa
+Sechna
+Siary
+Sidzina
+Sieborowice
+Sieciechowice
+Sieciechowice
+Siedlce
+Siedlec
+Siedlec
+Siedlec
+Siedliska
+Siedliska
+Siedliska
+Siedliska
+Siedliszowice
+Siekierczyna
+Siekierczyna
+Siemiechów
+Sieniawa
+Sieniczno
+Sienna
+Siepraw
+Sieradza
+Sieraków
+Siercza
+Sierockie
+Sieros³awice
+Sikorzyce
+Sio³kowa
+Sitnica
+Ska³a
+Skawa
+Skawce
+Skawica
+Skawina
+Skawinki
+Skidziñ
+Sk³adziste
+Skomielna Bia³a
+Skomielna Czarna
+Skrudzina
+Skrzeszowice
+Skrzêtla-Rojówka
+Skrzydlna
+Skrzynka
+Skrzynka
+Skrzypne
+Skrzyszów
+Skwirtne
+Smardzowice
+Smêgorzów
+Smerekowiec
+Smolice
+Smoniowice
+Smroków
+Smyków
+Sobiesêki
+Sobolów
+Soko³owice
+Solcza
+Sosnowice
+Sowliny
+Spytkowice
+Spytkowice
+Sromowce Ni¿ne
+Sromowce Wy¿ne
+Stad³a
+Stadniki
+Stani¹tki
+Stanis³aw Dolny
+Stanis³aw Górny
+Stanis³awice
+Stañkowa
+Stara Wieœ
+Stara Wieœ
+Stare Bystre
+Stare Lisiny
+Stare Rybie
+Stare ¯ukowice
+Stary S¹cz
+Stary Wiœnicz
+Stasikówka
+Stasinka
+Staszkowie
+Staszkówka
+Stawisza
+Stawy Monowskie
+Sterkowiec
+Stogniowice
+Stojowice
+Stoki
+Stradomka
+Strêgoborzyce
+Strojców
+Stronie
+Stronie
+Stró¿a
+Stró¿a
+Stró¿e
+Stró¿e
+Stró¿na
+Stró¿ówka
+Strumiany
+Stryszawa
+Stryszów
+Stryszowa
+Strzegowa
+Strzelce Ma³e
+Strzelce Wielkie
+Strzeszyce
+Strzeszyn
+Strze¿ów Drugi
+Strze¿ów Pierwszy
+Studzienki
+Sucha
+Sucha Beskidzka
+Sucha Struga
+Suche
+Suchoraba
+Suchy Grunt
+Sudo³ek
+Sufczyn
+Sukmanie
+Sulechów
+Sulis³awice
+Su³ków
+Su³kowice
+Su³kowice
+Su³kowice
+Su³oszowa
+Sutków
+Tarnów
+Wadowice
+Wieliczka
+Zakopane
