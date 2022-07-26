@@ -1,74 +1,74 @@
 Adamka
-Be³chatów
+BeÅ‚chatÃ³w
 Brzeziny
 Kutno
-£ask
-£êczyca
-£ódŸ
-£owicz
+Åask
+ÅÄ™czyca
+ÅÃ³dÅº
+Åowicz
 Opoczno
 Pabianice
-P¹gów
-P¹gów
-Pajêczno
-P¹tnów
-Pêc³awice
-Pêc³awice-Parcele
-Pêczek
-Pêczniew
-Pêdziwiatry
-Pêdziwiatry
-Pêgów
-Pêkoszew
-Piotrków Trybunalski
-P³aczki
-P³askocin
-P³awno
-P³oszów
-P³yæwia
-Poæwiardówka
-Poddêbice
-Pólka
-Pólko
+PÄ…gÃ³w
+PÄ…gÃ³w
+PajÄ™czno
+PÄ…tnÃ³w
+PÄ™cÅ‚awice
+PÄ™cÅ‚awice-Parcele
+PÄ™czek
+PÄ™czniew
+PÄ™dziwiatry
+PÄ™dziwiatry
+PÄ™gÃ³w
+PÄ™koszew
+PiotrkÃ³w Trybunalski
+PÅ‚aczki
+PÅ‚askocin
+PÅ‚awno
+PÅ‚oszÃ³w
+PÅ‚yÄ‡wia
+PoÄ‡wiardÃ³wka
+PoddÄ™bice
+PÃ³lka
+PÃ³lko
 Poradzew
 Poraj
 Porczyny
-Porêba
-Porêby
-Porêby
-Porêby
-Porêby
+PorÄ™ba
+PorÄ™by
+PorÄ™by
+PorÄ™by
+PorÄ™by
 Porszewice
 Posada
 Posada
-Posadówka
+PosadÃ³wka
 Posmykowizna
-Postêkalice
-Poœwiêtne
-Poœwiêtne
+PostÄ™kalice
+PoÅ›wiÄ™tne
+PoÅ›wiÄ™tne
 Potok
 Potok
-Potrzasków
-Powêziny
-Powodów Drugi
-Powodów Pierwszy
-Powodów Trzeci
-Po¿d¿enice
+PotrzaskÃ³w
+PowÄ™ziny
+PowodÃ³w Drugi
+PowodÃ³w Pierwszy
+PowodÃ³w Trzeci
+PoÅ¼dÅ¼enice
 Praca
 Praga
 Praga
-Prandotów
-Pratków
+PrandotÃ³w
+PratkÃ³w
 Pratkowice
 Prawda
-Prawêcice
-Pra¿ki
-Pra¿mów
-Próba
+PrawÄ™cice
+PraÅ¼ki
+PraÅ¼mÃ³w
+PrÃ³ba
 Proboszczowice
 Proszenie
-Prucheñsko Du¿e
-Prucheñsko Ma³e
+PrucheÅ„sko DuÅ¼e
+PrucheÅ„sko MaÅ‚e
 Prusak
 Prusicko
 Prusinowice
@@ -78,180 +78,180 @@ Prusinowice-Parcela
 Prusinowiczki
 Prusy
 Pruszki
-Pruszków
-Pruszków
+PruszkÃ³w
+PruszkÃ³w
 Prymusowa Wola
 Przanowice
-Przanówka
-Przatów Dolny
-Przatówek
-Przatów Górny
-Przec³aw
+PrzanÃ³wka
+PrzatÃ³w Dolny
+PrzatÃ³wek
+PrzatÃ³w GÃ³rny
+PrzecÅ‚aw
 Przecznia
-Przedbórz
-Przed³êcze
+PrzedbÃ³rz
+PrzedÅ‚Ä™cze
 Przekora
-Przemys³ów
-Przer¹b
+PrzemysÅ‚Ã³w
+PrzerÄ…b
 Przerycie
-Przesiad³ów
+PrzesiadÅ‚Ã³w
 Przewodowice
-Przewóz
+PrzewÃ³z
 Przezwiska
-Przyborów
-Przyborów
-Przyby³ów
-Przyby³ów
-Przybyszów
+PrzyborÃ³w
+PrzyborÃ³w
+PrzybyÅ‚Ã³w
+PrzybyÅ‚Ã³w
+PrzybyszÃ³w
 Przybyszyce
-Przyc³apy
+PrzycÅ‚apy
 Przydatki
 Przydatki Przybyszowskie
-Przyg³ów
-Przygoñ
+PrzygÅ‚Ã³w
+PrzygoÅ„
 Przykopy
-Przy³anki
-Przy³êk
-Przy³êk Du¿y
-Przy³êk Ma³y
+PrzyÅ‚anki
+PrzyÅ‚Ä™k
+PrzyÅ‚Ä™k DuÅ¼y
+PrzyÅ‚Ä™k MaÅ‚y
 Przylepka
-Przy³uski
-Przymi³ów
+PrzyÅ‚uski
+PrzymiÅ‚Ã³w
 Przypusta
 Przyrownica
 Przywidz
 Przywory
-Przywóz
-Przyzórz
+PrzywÃ³z
+PrzyzÃ³rz
 Psary
 Psary-Lechawa
 Psary Stare
 Psary Witowskie
 Pstrokonie
 Psurze
-Pszczó³ki
-Pszczonów
+PszczÃ³Å‚ki
+PszczonÃ³w
 Ptaszkowice
 Puchy
 Puczniew
-Pud³o
-Pud³ówek
-Pudzików
-Pukarzów
+PudÅ‚o
+PudÅ‚Ã³wek
+PudzikÃ³w
+PukarzÃ³w
 Pukawica
 Pukinin
-Pusta Wieœ
+Pusta WieÅ›
 Pustelnik
-Pustkowa Góra
+Pustkowa GÃ³ra
 Pustkowie
-Pyszków
+PyszkÃ³w
 Pytowice
-Raciborów
+RaciborÃ³w
 Raciborowice
 Raciszyn
-Raczków
+RaczkÃ³w
 Raczyn
-Raczynów
-Raczyñskie
+RaczynÃ³w
+RaczyÅ„skie
 Radomina
 Radomsko
 Radonia
-Radostów Drugi
-Radostów Pierwszy
+RadostÃ³w Drugi
+RadostÃ³w Pierwszy
 Radoszewice
 Raducki Folwark
 Raducz
 Raduczyce
 Radwan
 Radwanka
-Radzi¹tków
-Radzibórz
-Radzice Du¿e
-Radzice Ma³e
+RadziÄ…tkÃ³w
+RadzibÃ³rz
+Radzice DuÅ¼e
+Radzice MaÅ‚e
 Radziechowice Drugie
 Radziechowice Pierwsze
-Radzyñ
+RadzyÅ„
 Raj
-Rajmundów
-Rajsko Du¿e
-Rajsko Ma³e
-Raków
-Raków Du¿y
+RajmundÃ³w
+Rajsko DuÅ¼e
+Rajsko MaÅ‚e
+RakÃ³w
+RakÃ³w DuÅ¼y
 Rakowice
 Ralewice
 Rasy
 Raszelki
 Rawa Mazowiecka
 Rawicz
-Rawiczów
-Rdu³towice
-Rdu³towskie Góry
-Rdutów
-Reczków Nowy
-Reczków Stary
+RawiczÃ³w
+RduÅ‚towice
+RduÅ‚towskie GÃ³ry
+RdutÃ³w
+ReczkÃ³w Nowy
+ReczkÃ³w Stary
 Reczul
 Reczyce
 Redociny
-Reduchów
-Reduchów-Kolonia
+ReduchÃ³w
+ReduchÃ³w-Kolonia
 Reducz
-Redzeñ Drugi
-Redzeñ Pierwszy
-Reginów
-Regnów
+RedzeÅ„ Drugi
+RedzeÅ„ Pierwszy
+ReginÃ³w
+RegnÃ³w
 Regny
-Rejmontów
+RejmontÃ³w
 Rekle
-Rembieszów
-Rembów
-Rembów
+RembieszÃ³w
+RembÃ³w
+RembÃ³w
 Remiszew
 Remiszewice
 Restarzew Cmentarny
-Restarzew Œrodkowy
+Restarzew Åšrodkowy
 Retki
 Retniowiec
 Rewica
 Rewica-Kolonia
-Rewica Królewska
+Rewica KrÃ³lewska
 Rewica Szlachecka
 Robaszew
 Rochna
-Rochów
-Rochówek
+RochÃ³w
+RochÃ³wek
 Rodrysin
-Rogaczówek
+RogaczÃ³wek
 Rogaszyn
 Rogaszyn
 Rogi
-Rogów
-Rogów
-Rogów
+RogÃ³w
+RogÃ³w
+RogÃ³w
 Rogowiec
-Rogówiec
-Rogów-Parcela
-Rogów-Wieœ
-RogóŸno
-RogóŸno
-RogóŸno
+RogÃ³wiec
+RogÃ³w-Parcela
+RogÃ³w-WieÅ›
+RogÃ³Åºno
+RogÃ³Åºno
+RogÃ³Åºno
 Rogulice
-Rojków
+RojkÃ³w
 Rokiciny
 Rokiciny-Kolonia
 Rokitnica
 Rokitnica
-Rokitnica-K¹ty
+Rokitnica-KÄ…ty
 Rokitowiec
 Rokszyce
 Rokszyce
 Rokszyce Drugie
-Romanów
-Romanów
-Romanówek
-Romanówka
-Romartów
-Rosanów
-Ros³awowice
+RomanÃ³w
+RomanÃ³w
+RomanÃ³wek
+RomanÃ³wka
+RomartÃ³w
+RosanÃ³w
+RosÅ‚awowice
 Rosocha
 Rososz
 Rososza
@@ -259,26 +259,26 @@ Rossocha
 Rossoszyca
 Roszkowa Wola
 Rowy
-Ro¿d¿a³y
+RoÅ¼dÅ¼aÅ‚y
 Rozdzielna
-RoŸdzin
-Ro¿enek
-Ro¿niatów
-Ro¿niatowice
-Ro¿niatów-Kolonia
-Ro¿ny
+RoÅºdzin
+RoÅ¼enek
+RoÅ¼niatÃ³w
+RoÅ¼niatowice
+RoÅ¼niatÃ³w-Kolonia
+RoÅ¼ny
 Rozopol
-Rozpêd
+RozpÄ™d
 Rozprza
 Rozworzyn
-Rozynów
+RozynÃ³w
 Ruda
 Ruda
 Ruda
 Ruda
 Ruda
 Ruda-Bugaj
-Ruda Je¿ewska
+Ruda JeÅ¼ewska
 Rudka
 Rudka
 Rudlice
@@ -290,11 +290,11 @@ Rudunki
 Rudzisko
 Rulice
 Rusiec
-Rustów
+RustÃ³w
 Sieradz
 Skierniewice
-Tomaszów Mazowiecki
-Wieluñ
-Wieruszów
-Zduñska Wola
+TomaszÃ³w Mazowiecki
+WieluÅ„
+WieruszÃ³w
+ZduÅ„ska Wola
 Zgierz
