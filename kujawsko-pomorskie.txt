@@ -1,73 +1,73 @@
 Adaminowo
-AleksandrÛw Kujawski
+Aleksandr√≥w Kujawski
 Brodnica
 Bydgoszcz
-Che≥mno
-Golub-DobrzyÒ
-Grudziπdz
-Inowroc≥aw
+Che≈Çmno
+Golub-Dobrzy≈Ñ
+GrudziƒÖdz
+Inowroc≈Çaw
 Lipno
 Mogilno
-Nak≥o nad Noteciπ
-PÍperzyn
-P≥πchawy
-P≥aczkÛwko
-P≥awin
-P≥awinek
-P≥azowo
-P≥ochocin
-P≥ochocinek
-P≥ocicz
-P≥ociczno
-P≥omiany
-P≥onczyn
-P≥onczynek
-P≥onko
-P≥onkÛwko
-P≥onkowo
-P≥onne
-P≥onne-Plebanka
-P≥oskÛw
-P≥owce
-P≥owce Drugie
-P≥owÍø
-P≥owÍøek
-P≥owki
-P≥utowo
-P≥uønica
-P≥ywaczewo
-Púcininek
-Púcinno
+Nak≈Ço nad NoteciƒÖ
+Pƒôperzyn
+P≈ÇƒÖchawy
+P≈Çaczk√≥wko
+P≈Çawin
+P≈Çawinek
+P≈Çazowo
+P≈Çochocin
+P≈Çochocinek
+P≈Çocicz
+P≈Çociczno
+P≈Çomiany
+P≈Çonczyn
+P≈Çonczynek
+P≈Çonko
+P≈Çonk√≥wko
+P≈Çonkowo
+P≈Çonne
+P≈Çonne-Plebanka
+P≈Çosk√≥w
+P≈Çowce
+P≈Çowce Drugie
+P≈Çowƒô≈º
+P≈Çowƒô≈ºek
+P≈Çowki
+P≈Çutowo
+P≈Çu≈ºnica
+P≈Çywaczewo
+P≈õcininek
+P≈õcinno
 Rabinowo
 Rachcin
-Raciπski M≥yn
-Raciπø
-Raciπøek
+RaciƒÖski M≈Çyn
+RaciƒÖ≈º
+RaciƒÖ≈ºek
 Racice
 Raciniewo
-RadaÒska
-Rad≥Ûwek
-Rad≥owo
+Rada≈Ñska
+Rad≈Ç√≥wek
+Rad≈Çowo
 Radojewice
 Radomice
 Radomin
 Radonek
-RadoÒsk
+Rado≈Ñsk
 Radoszki
 Radunek
 Radyszyn
 Radzicz
-RadziejÛw
-Radziki Duøe
-Radziki Ma≥e
+Radziej√≥w
+Radziki Du≈ºe
+Radziki Ma≈Çe
 Radzim
 Radziochy
-RadzyÒ Che≥miÒski
+Radzy≈Ñ Che≈Çmi≈Ñski
 Radzynek
-RadzyÒ-Wieú
-RadzyÒ-Wybudowanie
+Radzy≈Ñ-Wie≈õ
+Radzy≈Ñ-Wybudowanie
 Rafa
-RajgrÛd
+Rajgr√≥d
 Rak
 Rakowo
 Rakutowo
@@ -77,14 +77,14 @@ Redczyce
 Redecz Kalny
 Redecz Krukowy
 Redecz Wielki-Parcele
-Redecz Wielki-Wieú
+Redecz Wielki-Wie≈õ
 Rejna
 Rembiesznica
 Rembiocha
 Reptowo
 Reszki
 Retkowo
-RÍtwiny
+Rƒôtwiny
 Robakowo
 Robotno
 Rodzone
@@ -92,41 +92,41 @@ Rogal
 Rogalin
 Rogalin
 Rogalki
-RogÛwko
-RogÛwko
-RogÛwko
+Rog√≥wko
+Rog√≥wko
+Rog√≥wko
 Rogowo
 Rogowo
 Rogowo
-RogÛøki
-RogÛüno
-RogÛüno-Zamek
+Rog√≥≈ºki
+Rog√≥≈∫no
+Rog√≥≈∫no-Zamek
 Rojewice
 Rojewo
 Rojewo
 Rokitnica Nowa
-Rokitnica-Wieú
+Rokitnica-Wie≈õ
 Romanowo
-Roúcimin
+Ro≈õcimin
 Rosochatka
 Rosochy
-RÛwienica
-RÛwnica
+R√≥wienica
+R√≥wnica
 Rozalinowo
-RÛøana
-RÛøankowo
-RÛøanna
+R√≥≈ºana
+R√≥≈ºankowo
+R√≥≈ºanna
 Rozental
 Rozgard
 Rozgarty
 Rozgarty
 Rozgarty
-Roøniaty
-Roøno-Parcele
-RÛønowo
-RozpÍtek
-Rozstrza≥y
-RozstrzÍbowo
+Ro≈ºniaty
+Ro≈ºno-Parcele
+R√≥≈ºnowo
+Rozpƒôtek
+Rozstrza≈Çy
+Rozstrzƒôbowo
 Roztoki
 Rozwarzyn
 Rucewko
@@ -144,54 +144,54 @@ Rudunek
 Rudunki
 Rudusk
 Rudy
-Rudzk Duøy
-Rudzki M≥yn
-Rudzk Ma≥y
+Rudzk Du≈ºy
+Rudzki M≈Çyn
+Rudzk Ma≈Çy
 Rulewo
-Rumunki G≥odowskie
-Rumunki JasieÒskie
+Rumunki G≈Çodowskie
+Rumunki Jasie≈Ñskie
 Rumunki Likieckie
-Rumunki OleszeÒskie
-Rumunki Podg≥odowskie
-Rumunki SkÍpskie
+Rumunki Olesze≈Ñskie
+Rumunki Podg≈Çodowskie
+Rumunki Skƒôpskie
 Rumunki Tupadelskie
 Rumunki Witkowskie
-Runowo KrajeÒskie
+Runowo Kraje≈Ñskie
 Rusinowo
 Rusinowo
 Ruszki
 Ruszkowo
 Ruszkowo
 Rutkowice
-Ruøe
+Ru≈ºe
 Ruziec
 Rybieniec
 Rybiny
-Rybiny Leúne
+Rybiny Le≈õne
 Rybitwy
 Rybno
 Rybno
 Rycerzewko
 Rycerzewo
-Rych≥awa
+Rych≈Çawa
 Rychnowo
 Rydlewo
 Rykowisko
 Rynarzewo
-RynkÛw
-RyÒsk
-Rypa≥ki Prywatne
+Rynk√≥w
+Ry≈Ñsk
+Rypa≈Çki Prywatne
 Rypin
 Ryszewek
 Ryszewko
 Ryszewo
 Ryszka
-Ryteb≥ota
-Rywa≥d
+Ryteb≈Çota
+Rywa≈Çd
 Rzadka Wola
 Rzadka Wola-Parcele
 Rzadkwin
-RzÍczkowo
+Rzƒôczkowo
 Rzeczyca
 Rzegocin
 Rzemieniewice
@@ -201,79 +201,79 @@ Rzepiszyn
 Rzepowo
 Rzeszyn
 Rzeszynek
-Rzeøewo Ma≥e
-Rzeøewo-Morzyce
+Rze≈ºewo Ma≈Çe
+Rze≈ºewo-Morzyce
 Rzym
 Rzywno
 Sadki
-Sadkowski M≥yn
-Sad≥Ûg
-Sad≥ogoszcz
-Sad≥owo
-Sad≥owo-Rumunki
-Sad≥Ûøek
+Sadkowski M≈Çyn
+Sad≈Ç√≥g
+Sad≈Çogoszcz
+Sad≈Çowo
+Sad≈Çowo-Rumunki
+Sad≈Ç√≥≈ºek
 Sadowiec
 Sadowo
 Sadykierz
 Salno
 Salno
 Samin
-Samociπøek
+SamociƒÖ≈ºek
 Samszyce
-SÍpÛlno KrajeÒskie
+Sƒôp√≥lno Kraje≈Ñskie
 Smolary
-SmÛlnik
-SmÛlniki
+Sm√≥lnik
+Sm√≥lniki
 Smolniki
 Smolno
-SmÛlsk
+Sm√≥lsk
 Sobiczewy
 Sobiejuchy
 Sobiesiernie
 Sobiesierzno
 Sobiny
-SobÛtka
-Sokole-Kuünica
-SokoligÛra
+Sob√≥tka
+Sokole-Ku≈∫nica
+Sokolig√≥ra
 Sokolniki
-Soko≥owo
-Soko≥owo
-Soko≥owo
-Soko≥owo
-Soko≥owo-Parcele
-Soko≥owskie Rumunki
-Soko≥y
+Soko≈Çowo
+Soko≈Çowo
+Soko≈Çowo
+Soko≈Çowo
+Soko≈Çowo-Parcele
+Soko≈Çowskie Rumunki
+Soko≈Çy
 Solec Kujawski
 Somsiory
 Sortyka
 Sosno
-Soúno
-Soúno KrÛlewskie
-SosnÛwiec
-SosnÛwka
-SosnÛwka
+So≈õno
+So≈õno Kr√≥lewskie
+Sosn√≥wiec
+Sosn√≥wka
+Sosn√≥wka
 Sosnowo
 Sowiniec
-Sp≥awie
+Sp≈Çawie
 Spoczynek
 Srebrniki
 Stablewice
-StajÍczyny
+Stajƒôczyny
 Stajenczynki
 Stalmierz
-StalÛwka
-Stanis≥awie
-Stanis≥awka
-Stanis≥awka
-Stanis≥awki
+Stal√≥wka
+Stanis≈Çawie
+Stanis≈Çawka
+Stanis≈Çawka
+Stanis≈Çawki
 Stanomin
 Stara Huta
 Stara Kolonia
 Stara Ruda
 Stara Rzeczna
 Stara Rzeka
-Stara Wieú
-Stara Wieú
+Stara Wie≈õ
+Stara Wie≈õ
 Starczewo
 Stawek
 Stawiska
@@ -285,16 +285,16 @@ Stefanowo
 Steklin
 Steklinek
 Stobno
-StodÛlno
-Stodo≥y
+Stod√≥lno
+Stodo≈Çy
 Stok
 Stolno
 Stopka
 Storlus
-StrachoÒ
-åwiecie
-ToruÒ
+Stracho≈Ñ
+≈öwiecie
+Toru≈Ñ
 Tuchola
-Wπbrzeüno
-W≥oc≥awek
-Ønin
+WƒÖbrze≈∫no
+W≈Çoc≈Çawek
+≈ªnin
