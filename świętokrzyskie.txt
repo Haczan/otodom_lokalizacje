@@ -1,37 +1,37 @@
 Adamczowice
-Busko-Zdrój
-Jêdrzejów
+Busko-ZdrÃ³j
+JÄ™drzejÃ³w
 Kazimierza Wielka
 Kielce
-Koñskie
-Opatów
-Ostrowiec Œwiêtokrzyski
-P¹gowiec
-Pêchów
-Pêchowiec
-Pêc³awice Górne
-Pêczelice
-Pêczyny
-Pêkos³aw
-Pêkos³awice
-Pêpice
-Pêtkowice
-Piñczów
-P³aczków
-P³aczkowice
-P³oœnia
-P³ucki
-Prz¹s³aw Ma³y
-Przy³êk
+KoÅ„skie
+OpatÃ³w
+Ostrowiec ÅšwiÄ™tokrzyski
+PÄ…gowiec
+PÄ™chÃ³w
+PÄ™chowiec
+PÄ™cÅ‚awice GÃ³rne
+PÄ™czelice
+PÄ™czyny
+PÄ™kosÅ‚aw
+PÄ™kosÅ‚awice
+PÄ™pice
+PÄ™tkowice
+PiÅ„czÃ³w
+PÅ‚aczkÃ³w
+PÅ‚aczkowice
+PÅ‚oÅ›nia
+PÅ‚ucki
+PrzÄ…sÅ‚aw MaÅ‚y
+PrzyÅ‚Ä™k
 Psary
-Psary-K¹ty
+Psary-KÄ…ty
 Psary-Kolonia
-Psary-Pod³azy
-Psary-Stara Wieœ
-Pu³aczów
-R¹czki
+Psary-PodÅ‚azy
+Psary-Stara WieÅ›
+PuÅ‚aczÃ³w
+RÄ…czki
 Raczyce
-Radków
+RadkÃ³w
 Radkowice
 Radkowice
 Radkowice-Kolonia
@@ -39,64 +39,64 @@ Radlin
 Radomek
 Radomice
 Radoska
-Radostów
+RadostÃ³w
 Radoszki
 Radoszyce
 Radwan
-Radwanów
-Radwanów-Kolonia
-Radzanów
+RadwanÃ³w
+RadwanÃ³w-Kolonia
+RadzanÃ³w
 Rajchotka
 Rakoszyn
-Raków
-Raków
-Rakówka
-Raszków
+RakÃ³w
+RakÃ³w
+RakÃ³wka
+RaszkÃ³w
 Rataje
 Rataje Karskie
-Rataje S³upskie
+Rataje SÅ‚upskie
 Rawka
-Rêbów
-Rêdocin
-Rêdziny
+RÄ™bÃ³w
+RÄ™docin
+RÄ™dziny
 Rejowiec
-Rejterówka
+RejterÃ³wka
 Rembiechowa
 Rembieszyce
-Rembów
+RembÃ³w
 Rogacz
-Rogalów
+RogalÃ³w
 Rogienice
-Rogów
-Rogów
-Rogówek
+RogÃ³w
+RogÃ³w
+RogÃ³wek
 Rogowice
-Romanów
-Romanówka
+RomanÃ³w
+RomanÃ³wka
 Ropocice
-Rosiejów
+RosiejÃ³w
 Rosochy
 Rosochy
-Roso³ówka
-Równiny
-Rozgó³
-Ro¿ki
-Ro¿nica
+RosoÅ‚Ã³wka
+RÃ³wniny
+RozgÃ³Å‚
+RoÅ¼ki
+RoÅ¼nica
 Roztylice
-Ruczynów
+RuczynÃ³w
 Ruda
 Ruda
 Ruda
-Ruda Bia³aczowska
-Ruda Koœcielna
+Ruda BiaÅ‚aczowska
+Ruda KoÅ›cielna
 Ruda Maleniecka
 Ruda Pilczycka
-Ruda Strawczyñska
+Ruda StrawczyÅ„ska
 Rudawa
-Ruda Zaj¹czkowska
+Ruda ZajÄ…czkowska
 Rudka
 Rudka
-Rudka Ba³towska
+Rudka BaÅ‚towska
 Rudki
 Rudki
 Rudnik
@@ -106,195 +106,195 @@ Rudniki
 Rudniki
 Rudzisko
 Ruszcza
-Ruszcza-Kêpa
+Ruszcza-KÄ™pa
 Ruszcza-Kolonia
-Ruszcza-P³aszczyzna
-Ruszków
+Ruszcza-PÅ‚aszczyzna
+RuszkÃ³w
 Ruszkowiec
 Rybitwy
 Rybnica
 Rykoszyn
-Ry³owice
-Rytlów
+RyÅ‚owice
+RytlÃ³w
 Rytwiany
-Rz¹biec
+RzÄ…biec
 Rzeczyca Mokra
 Rzeczyca Sucha
-Rzêdów
+RzÄ™dÃ³w
 Rzegocin
 Rzemienowice
 Rzepin Drugi
 Rzepinek
 Rzepin-Kolonia
 Rzepin Pierwszy
-Rzeszówek
+RzeszÃ³wek
 Rzeszutki
 Rzewuszyce
-R¿uchów
+RÅ¼uchÃ³w
 Sadek
 Sadki
-Sadków
-Sadkówka
-Sad³owice
+SadkÃ³w
+SadkÃ³wka
+SadÅ‚owice
 Sadowie
-Salachowy Bór
+Salachowy BÃ³r
 Salata
 Samborzec
-Samostrza³ów
-Samsonów
-Samsonów-Ci¹g³e
-Samsonów-Dudków
-Samsonów-Komorniki
-Samsonów-Piechotne
-Sancygniów
+SamostrzaÅ‚Ã³w
+SamsonÃ³w
+SamsonÃ³w-CiÄ…gÅ‚e
+SamsonÃ³w-DudkÃ³w
+SamsonÃ³w-Komorniki
+SamsonÃ³w-Piechotne
+SancygniÃ³w
 Sandomierz
 Sarbice Drugie
 Sarbice Pierwsze
 Sarnia Zwola
-Sarnówek Du¿y
-Sarnówek Ma³y
+SarnÃ³wek DuÅ¼y
+SarnÃ³wek MaÅ‚y
 Secemin
-Senis³awice
-Serbinów
+SenisÅ‚awice
+SerbinÃ³w
 Serwis
-Sichów Du¿y
-Sichów Ma³y
-Sieczków
+SichÃ³w DuÅ¼y
+SichÃ³w MaÅ‚y
+SieczkÃ³w
 Siedlce
-Siekierno-Podmieœcie
+Siekierno-PodmieÅ›cie
 Siekierno-Przedgrab
 Sielec
 Sielec
 Sielec
 Sielec Biskupi
 Sielec-Kolonia
-Sielpia Ma³a
+Sielpia MaÅ‚a
 Sielpia Wielka
-Sieñsko
+SieÅ„sko
 Sieradowice Drugie
 Sieradowice-Parcele
 Sieradowice Pierwsze
 Sieradzice
-Sieraków
-Sieros³awice
-Sies³awice
-Sietejów
-Silpia Du¿a
-Silpia Ma³a
-Siod³a
-Sitkówka
+SierakÃ³w
+SierosÅ‚awice
+SiesÅ‚awice
+SietejÃ³w
+Silpia DuÅ¼a
+Silpia MaÅ‚a
+SiodÅ‚a
+SitkÃ³wka
 Skadla
-Ska³a-Gajówka
+SkaÅ‚a-GajÃ³wka
 Skalbmierz
-Ska³ecznica
-Ska³y
-Sk¹pe
+SkaÅ‚ecznica
+SkaÅ‚y
+SkÄ…pe
 Skarbka
 Skarszyny
-Skar¿ysko-Kamienna
-Skar¿ysko Koœcielne
+SkarÅ¼ysko-Kamienna
+SkarÅ¼ysko KoÅ›cielne
 Skiby
 Skociszewy
 Skoki
 Skolankowska Wola
-Skorczów
-Skorków
-Skórnice
+SkorczÃ³w
+SkorkÃ³w
+SkÃ³rnice
 Skorocice
 Skorzeszyce
-Skorzów
+SkorzÃ³w
 Skotniki
 Skrzelczyce
 Skrzypaczowice
 Skrzypiec
-Skrzypiów
-Skrzyszów
+SkrzypiÃ³w
+SkrzyszÃ³w
 Skwirzowa
-Smarków
+SmarkÃ³w
 Smerdyna
-Smogorzów
+SmogorzÃ³w
 Smugi
 Smugi
-Smyków
-Smyków
+SmykÃ³w
+SmykÃ³w
 Snochowice
-Sobków
-Sobków-Nida
-Soboszów
-Sobótka
-Sobótka
-Sobów
+SobkÃ³w
+SobkÃ³w-Nida
+SoboszÃ³w
+SobÃ³tka
+SobÃ³tka
+SobÃ³w
 Sobowice
 Sokolina
-Soko³ów Dolny
-Soko³ów Górny
+SokoÅ‚Ã³w Dolny
+SokoÅ‚Ã³w GÃ³rny
 Solec
-Solec-Zdrój
-So³tyków
+Solec-ZdrÃ³j
+SoÅ‚tykÃ³w
 Sorbin
-Soœniczany
+SoÅ›niczany
 Sosnowiec
-Sosnówka
+SosnÃ³wka
 Sprowa
-Sroczków
+SroczkÃ³w
 Stachura
 Stadnicka Wola
 Staniowice
-Stanis³awów
+StanisÅ‚awÃ³w
 Stanowiska
 Stanowiska
 Starachowice
-Stara Dêbowa Wola
-Stara Góra
-Stara KuŸnica
-Stara £agowica
-Stara Olszówka
-Stara S³upia
-Stara Wieœ
-Stara Zagoœæ
+Stara DÄ™bowa Wola
+Stara GÃ³ra
+Stara KuÅºnica
+Stara Åagowica
+Stara OlszÃ³wka
+Stara SÅ‚upia
+Stara WieÅ›
+Stara ZagoÅ›Ä‡
 Stara Zbelutka
 Stare Kanice
 Stare Kichary
 Stare Kotlice
 Stare Pole
-Starochêciny
-Stary Bostów
-Stary Dzieba³tów
+StarochÄ™ciny
+Stary BostÃ³w
+Stary DziebaÅ‚tÃ³w
 Stary Gaj
-Stary Garbów
-Stary Grzybów
-Stary Janów
+Stary GarbÃ³w
+Stary GrzybÃ³w
+Stary JanÃ³w
 Stary Jawor
-Stary Kazanów
+Stary KazanÃ³w
 Stary Korczyn
-Stary Soko³ów
-Stary Wêgrzynów
+Stary SokoÅ‚Ã³w
+Stary WÄ™grzynÃ³w
 Starzechowice
-Staszów
+StaszÃ³w
 Stawiany
 Stawiszyce
 Staw Kunowski
 Stawy
 Stawy-Sieragi
 Stefania
-Stefanówek
+StefanÃ³wek
 Sternalice
 Stobiec
-Stodo³y-Kolonie
-Stodo³y-Wieœ
+StodoÅ‚y-Kolonie
+StodoÅ‚y-WieÅ›
 Stojanowice
 Stojewsko
 Stoki
-Stoki Du¿e
-Stoki Ma³e
+Stoki DuÅ¼e
+Stoki MaÅ‚e
 Stoki Stare
 Stomorgi
 Stopnica
 Stradlice
-Stradów
-Straszów
+StradÃ³w
+StraszÃ³w
 Strawczyn
 Strawczynek
-Stra¿nica
-Stra¿nik
-W³oszczowa
+StraÅ¼nica
+StraÅ¼nik
+WÅ‚oszczowa
