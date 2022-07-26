@@ -1,64 +1,64 @@
 Adamierz
-Chodzie¿
-Czarnków
+ChodzieÅ¼
+CzarnkÃ³w
 Gniezno
-Gostyñ
+GostyÅ„
 Grodzisk Wielkopolski
 Jarocin
 Kalisz
-Kêpno
-Ko³o
+KÄ™pno
+KoÅ‚o
 Konin
-Koœcian
+KoÅ›cian
 Krotoszyn
 Leszno
-Miêdzychód
-Nowy Tomyœl
+MiÄ™dzychÃ³d
+Nowy TomyÅ›l
 Oborniki
-Ostrów Wielkopolski
-Ostrzeszów
-P¹chów
-P¹chy
-Pêcherzew
-Pêckowo
-Pêckowo
-Pêpocin
-Pêpowo
-Pêtkowo
-Pi³a
-P³aczki
-P³aczkowo
-P³aczkowo
-P³aczkowo
-P³astowo
-P³awce
-P³awno
+OstrÃ³w Wielkopolski
+OstrzeszÃ³w
+PÄ…chÃ³w
+PÄ…chy
+PÄ™cherzew
+PÄ™ckowo
+PÄ™ckowo
+PÄ™pocin
+PÄ™powo
+PÄ™tkowo
+PiÅ‚a
+PÅ‚aczki
+PÅ‚aczkowo
+PÅ‚aczkowo
+PÅ‚aczkowo
+PÅ‚astowo
+PÅ‚awce
+PÅ‚awno
 Pleszew
-P³osków
-P³oszewo
-P³ytnica
-P³ytnica
-Po³ajewice
-Po³ajewko
-Po³ajewo
-Po³a¿ejewo
-Pólko
-Pólko
-Pó³ko
-Pólko
-Pó³wiosek Lubstowski
-Pó³wiosek Nowy
-Pó³wiosek Stary
+PÅ‚oskÃ³w
+PÅ‚oszewo
+PÅ‚ytnica
+PÅ‚ytnica
+PoÅ‚ajewice
+PoÅ‚ajewko
+PoÅ‚ajewo
+PoÅ‚aÅ¼ejewo
+PÃ³lko
+PÃ³lko
+PÃ³Å‚ko
+PÃ³lko
+PÃ³Å‚wiosek Lubstowski
+PÃ³Å‚wiosek Nowy
+PÃ³Å‚wiosek Stary
 Pomarzany
 Pomarzany Fabryczne
 Pomiany
 Pomiarki
 Pomocno
 Pomykowo
-Ponêtów Dolny
-Ponêtów Górny Drugi
-Ponêtów Górny Pierwszy
-Poniatówek
+PonÄ™tÃ³w Dolny
+PonÄ™tÃ³w GÃ³rny Drugi
+PonÄ™tÃ³w GÃ³rny Pierwszy
+PoniatÃ³wek
 Poniec
 Poniec-Folwark
 Ponin
@@ -67,41 +67,41 @@ Popielewo
 Popielewo
 Popielewo-Folwark
 Popielno
-Pop³omyk
-Popów
-Popówek
-Popówko
+PopÅ‚omyk
+PopÃ³w
+PopÃ³wek
+PopÃ³wko
 Popowo
 Popowo
 Popowo
 Popowo-Ignacewo
-Popowo Koœcielne
+Popowo KoÅ›cielne
 Popowo Stare
 Popowo Tomkowe
 Popowo Wonieskie
-Pora¿yn
-Pora¿ynko
-Porêba
-Poro¿e
+PoraÅ¼yn
+PoraÅ¼ynko
+PorÄ™ba
+PoroÅ¼e
 Porwity
 Posada
 Posada
-Posadówek
+PosadÃ³wek
 Posadowo
 Posadowo
 Posmyk
 Posoka
 Posoka
-Pospólno
-Poœrednik
-Poœwi¹tno
-Poœwiêtno
+PospÃ³lno
+PoÅ›rednik
+PoÅ›wiÄ…tno
+PoÅ›wiÄ™tno
 Potachy
 Potarzyca
 Potarzyca
-Potaœnia
+PotaÅ›nia
 Potasze
-Pota¿niki
+PotaÅ¼niki
 Potrzanowo
 Potrzebowo
 Potrzebowo
@@ -109,46 +109,46 @@ Potrzymowo
 Potulice
 Potulice
 Potulin
-Potworów
+PotworÃ³w
 Powiadacze
 Powidz
 Powiercie
 Powiercie-Kolonia
 Powodowo
-Po¿arowo
-Poznañ
-Pr¹dówka
-Pr¹dy
-Prawomyœl
-Prêtkowice
-Próchnowo
-Próchnowo-Du¿e Osady
+PoÅ¼arowo
+PoznaÅ„
+PrÄ…dÃ³wka
+PrÄ…dy
+PrawomyÅ›l
+PrÄ™tkowice
+PrÃ³chnowo
+PrÃ³chnowo-DuÅ¼e Osady
 Prochy
 Prochy
-Prokopów
+ProkopÃ³w
 Promienko
 Promnice
 Promno
 Promno-Stacja
 Prosna
 Prostkowo
-Przyby³ów
-Przybys³aw
-Przybys³aw
-Przybys³awice
+PrzybyÅ‚Ã³w
+PrzybysÅ‚aw
+PrzybysÅ‚aw
+PrzybysÅ‚awice
 Przybyszew
-Przybyszów
+PrzybyszÃ³w
 Przychodzko
 Przygodzice
 Przygodziczki
 Przyjma
 Przykona
-Przy³êg
-Przy³êk
-Przy³êki
+PrzyÅ‚Ä™g
+PrzyÅ‚Ä™k
+PrzyÅ‚Ä™ki
 Przylepki
 Przylesie
-Przy³ubie
+PrzyÅ‚ubie
 Przymiarki
 Przyprostynia
 Przyranie
@@ -167,33 +167,33 @@ Psarskie
 Psary
 Psary
 Psary
-Psary Ma³e
+Psary MaÅ‚e
 Psary Polskie
 Psary Wielkie
-Psienie-Ostrów
+Psienie-OstrÃ³w
 Psie Pole
 Ptaszkowo
 Ptusza
-Puco³owo
+PucoÅ‚owo
 Pudliszki
 Pustelnia
-Puszczykówiec
+PuszczykÃ³wiec
 Puszczykowo
 Puszczykowo
 Puszczykowo-Zaborze
 Pyczek
-Pysz¹ca
+PyszÄ…ca
 Pyszczyn
 Pyszczynek
 Pyzdry
 Rabowice
-Racendów
+RacendÃ³w
 Rachowa
-Raciborów
-Raciêcice
-Raciêcin
-Rac³awice
-Rac³awki
+RaciborÃ³w
+RaciÄ™cice
+RaciÄ™cin
+RacÅ‚awice
+RacÅ‚awki
 Racot
 Raczkowo
 Raczyce
@@ -203,9 +203,9 @@ Radgoszcz
 Radliczyce
 Radlin
 Radliniec
-Rad³ów
-Rad³owo
-Rad³owo Leœne
+RadÅ‚Ã³w
+RadÅ‚owo
+RadÅ‚owo LeÅ›ne
 Radolin
 Radolina
 Radolinek
@@ -213,16 +213,16 @@ Radom
 Radomice
 Radomicko
 Radomierz
-Radomierz-Leœniczówka
-Radomyœl
+Radomierz-LeÅ›niczÃ³wka
+RadomyÅ›l
 Radosiew
 Radoszewice
 Radoszkowo
 Radoszkowo Drugie
-Raduchów
+RaduchÃ³w
 Radusz
 Raduszyn
-Radwañczewo
+RadwaÅ„czewo
 Radwaniec
 Radwanki
 Radyczyny
@@ -230,71 +230,71 @@ Radyczyny-Kolonia
 Radzewice
 Radzewo
 Radzim
-Radziwi³³ów
+RadziwiÅ‚Å‚Ã³w
 Radzyny
-Rafa³ów
+RafaÅ‚Ã³w
 Rajsko
 Rakojady
 Rakoniewice
-Raków
-Rakówka
+RakÃ³w
+RakÃ³wka
 Rakownia
 Rakowo
 Rakowo
 Rakowo
 Raszewy
 Raszewy
-Raszków
+RaszkÃ³w
 Rataje
 Rataje
 Rataje
 Rataje
 Ratowice
-Ratyñ
+RatyÅ„
 Rawicz
-Rdutów
-Rdutów Nowy
+RdutÃ³w
+RdutÃ³w Nowy
 Rejmanka
 Rejowiec
-Rejtanów
+RejtanÃ³w
 Reklin
 Reklinek
-Remiszówka
-Reñsko
+RemiszÃ³wka
+ReÅ„sko
 Renta
 Rgielew
 Rgielsko
 Robaczyn
-Robaków
+RobakÃ³w
 Robakowo
 Robczysko
 Rochy
 Rogaczewo
-Rogaczewo Ma³e
+Rogaczewo MaÅ‚e
 Rogaczewo Wielkie
 Rogal
 Rogalin
 Rogalinek
 Rogaszyce
 Rogaszyce
-Rogierówko
-Rogów
+RogierÃ³wko
+RogÃ³w
 Rogowo
-Rogo¿ewo
-RogoŸno
+RogoÅ¼ewo
+RogoÅºno
 Rogusko
-Rojêczyn
+RojÄ™czyn
 Rojew
 Rojewo
-Rojów
+RojÃ³w
 Rokietnica
 Rokosz
-S³upca
-Œrem
-Œroda Wielkopolska
-Szamotu³y
+SÅ‚upca
+Åšrem
+Åšroda Wielkopolska
+SzamotuÅ‚y
 Turek
-W¹growiec
+WÄ…growiec
 Wolsztyn
-Wrzeœnia
-Z³otów
+WrzeÅ›nia
+ZÅ‚otÃ³w
