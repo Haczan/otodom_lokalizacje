@@ -1,109 +1,109 @@
 Abramy
-Bia³obrzegi
-Ciechanów
+BiaÅ‚obrzegi
+CiechanÃ³w
 Garwolin
 Gostynin
 Grodzisk Mazowiecki
-Grójec
+GrÃ³jec
 Kozienice
 Legionowo
 Lipsko
-£osice
-Maków Mazowiecki
-Miñsk Mazowiecki
-M³awa
-Nowy Dwór Mazowiecki
-Ostro³êka
-Ostrów Mazowiecka
+Åosice
+MakÃ³w Mazowiecki
+MiÅ„sk Mazowiecki
+MÅ‚awa
+Nowy DwÃ³r Mazowiecki
+OstroÅ‚Ä™ka
+OstrÃ³w Mazowiecka
 Otwock
-O¿arów Mazowiecki
+OÅ¼arÃ³w Mazowiecki
 Piaseczno
-P³ock
-P³oñsk
-Pruszków
+PÅ‚ock
+PÅ‚oÅ„sk
+PruszkÃ³w
 Pruszyn
 Pruszyn
 Pruszynek
-Pruszyn-Pieñki
+Pruszyn-PieÅ„ki
 Prycanowo
 Przasnysz
 Przeciszewo
 Przeciszewo-Kolonia
-Przedbórz
+PrzedbÃ³rz
 Przedewsie
-Przedmieœcie Bli¿sze
-Przedmieœcie Dalsze
-Przedpe³ce
-Przedœwit
+PrzedmieÅ›cie BliÅ¼sze
+PrzedmieÅ›cie Dalsze
+PrzedpeÅ‚ce
+PrzedÅ›wit
 Przedwojewo
 Przejazd
 Przejma
 Przejmy
 Przemiarowo
 Przemkowo
-Przemys³ów
+PrzemysÅ‚Ã³w
 Przeradowo
 Przysucha
-Pu³tusk
+PuÅ‚tusk
 Radom
 Radonice
 Radonie
-Radoœæ
+RadoÅ›Ä‡
 Radosz
 Radoszyna
 Radotki
-Radwanków Królewski
-Radwanków Szlachecki
+RadwankÃ³w KrÃ³lewski
+RadwankÃ³w Szlachecki
 Radycza
-Radzanów
-Radzanów
-Radzanówek
+RadzanÃ³w
+RadzanÃ³w
+RadzanÃ³wek
 Radzanowo
-Radzanowo-Dêbniki
+Radzanowo-DÄ™bniki
 Radzanowo-Lasocin
 Radziejowice
 Radziejowice-Parcel
-Radzików
-Radzików-Kornica
-Radzików-Oczki
+RadzikÃ³w
+RadzikÃ³w-Kornica
+RadzikÃ³w-Oczki
 Radzikowo Scalone
-Radzików-Stopki
-Radzików Wielki
+RadzikÃ³w-Stopki
+RadzikÃ³w Wielki
 Radzimowice
 Radziwie
-Radziwi³ka
-Radziwi³³ów
+RadziwiÅ‚ka
+RadziwiÅ‚Å‚Ã³w
 Radzymin
 Radzymin
 Radzyminek
-Rafa³y
+RafaÅ‚y
 Rajec Poduchowny
 Rajec Szlachecki
 Rajszew
 Rak
 Raki
-Raków
-Rakówiec
+RakÃ³w
+RakÃ³wiec
 Rakowiec
 Rakowiec
 Rakowo
 Rakowo
 Ramiona
-Ramutówko
+RamutÃ³wko
 Ramutowo
-Ranachów B
-Ranachów-Wieœ
+RanachÃ³w B
+RanachÃ³w-WieÅ›
 Rapaty-Sulimy
 Raszewo Dworskie
-Raszewo W³oœciañskie
-Rasztów
+Raszewo WÅ‚oÅ›ciaÅ„skie
+RasztÃ³w
 Raszujka
 Raszyn
 Rataje
 Ratoszyn
 Ratowo
 Ratyniec
-Rawica-Józefatka
+Rawica-JÃ³zefatka
 Rawica-Kolonia
 Rawica Nowa
 Rawica Stara
@@ -111,44 +111,44 @@ Rawicz
 Rawki
 Rawy
 Rawy-Gaczkowo
-RaŸniewo
-Ra¿ny
-Rdzów
-Rdzuchów
-Rdzuchów-Kolonia
+RaÅºniewo
+RaÅ¼ny
+RdzÃ³w
+RdzuchÃ³w
+RdzuchÃ³w-Kolonia
 Recica
 Reczewo
 Reczyn
 Redlanka
 Redlin
 Reducin
-Redzyñskie
+RedzyÅ„skie
 Regimin
-Regów
-Regów Nowy
-Regów Stary
-Regu³y
+RegÃ³w
+RegÃ³w Nowy
+RegÃ³w Stary
+ReguÅ‚y
 Regut
-Rekówka
+RekÃ³wka
 Rekowo
 Rembelszczyzna
-Rembertów
+RembertÃ³w
 Rembielin
 Rembielin
-Rembówko
+RembÃ³wko
 Rembowo
-Remiszew Du¿y
-Remiszew Ma³y
+Remiszew DuÅ¼y
+Remiszew MaÅ‚y
 Remki
 Rempin
 Repki
 Repki
 Reszki
-Resztówka
+ResztÃ³wka
 Retka
-Retków
+RetkÃ³w
 Robercin
-Robertów
+RobertÃ³w
 Robertowo
 Rochale
 Rochaliki
@@ -158,49 +158,49 @@ Rogalec
 Rogienice
 Rogieniczki
 Rogolin
-Rogotwórsk
-Rogów
-Rogów
+RogotwÃ³rsk
+RogÃ³w
+RogÃ³w
 Rogowa
-Rogówek
+RogÃ³wek
 Rogowo
 Rogowo
 Rogowo-Folwark
-Rogo¿ek
-Rogo¿ewek
-Rogóziec
+RogoÅ¼ek
+RogoÅ¼ewek
+RogÃ³ziec
 Rogozino
-RogóŸnia
-RogóŸno
+RogÃ³Åºnia
+RogÃ³Åºno
 Roguszyn
 Roguszyn
-Rojków
+RojkÃ³w
 Rokicie
 Rokicie
 Rokicina
 Rokitnica
 Rokitno
-Rokitno-Maj¹tek
-Rokitówka
+Rokitno-MajÄ…tek
+RokitÃ³wka
 Rokocina
-Rokotów
-Romanów
-Romanów
-Romanów
-Romanów
+RokotÃ³w
+RomanÃ³w
+RomanÃ³w
+RomanÃ³w
+RomanÃ³w
 Romanowo
 Romany-Fuszki
-Romany-Janowiêta
+Romany-JanowiÄ™ta
 Romany-Sebory
-Romany-Sêdziêta
+Romany-SÄ™dziÄ™ta
 Romatowo
-Romualdów
+RomualdÃ³w
 Ropele
-Roœciszewo
+RoÅ›ciszewo
 Rosocha
-Rosochów
+RosochÃ³w
 Rosochy
-Roso³ów
+RosoÅ‚Ã³w
 Rososz
 Rososz
 Rososz
@@ -211,7 +211,7 @@ Rostki
 Rostki
 Rostki
 Rostki
-Rostki-Daæbogi
+Rostki-DaÄ‡bogi
 Rostki-Piotrowice
 Rostki Wielkie
 Rostkowice
@@ -226,17 +226,17 @@ Rowy
 Rozalin
 Rozalin
 Rozalin
-Rozbity Kamieñ
-Ro¿ce
-Rozdzia³y
-Ro¿ek
-Ro¿ki
-Rozlaz³ów
+Rozbity KamieÅ„
+RoÅ¼ce
+RozdziaÅ‚y
+RoÅ¼ek
+RoÅ¼ki
+RozlazÅ‚Ã³w
 Rozniszew
 Roztoka
 Roztropna
-Roztworów
-Rozwadów
+RoztworÃ³w
+RozwadÃ³w
 Rozwady
 Rozwory
 Rozwozin
@@ -255,13 +255,13 @@ Ruda
 Ruda
 Ruda-Czernik
 Ruda-Kolonia
-Ruda Ma³a
+Ruda MaÅ‚a
 Ruda-Pniewnik
 Ruda Szostkowska
 Ruda Talubska
 Ruda Tarnowska
 Ruda Wielka
-Ruda Woliñska
+Ruda WoliÅ„ska
 Rudka
 Rudka
 Rudka
@@ -272,29 +272,29 @@ Rudnik
 Rudnik
 Rudnik
 Rudnik
-Rudnik Du¿y
+Rudnik DuÅ¼y
 Rudniki
 Rudniki
-Rudnik Ma³y
+Rudnik MaÅ‚y
 Rudniwa
 Rudno
 Rudno
 Rudno
 Rudno Jeziorowe
 Rudno Kmiece
-Rudno-Kosi³y
+Rudno-KosiÅ‚y
 Rudowo
 Rudowo
 Rudzienko
 Siedlce
 Sierpc
 Sochaczew
-Soko³ów Podlaski
-Szyd³owiec
+SokoÅ‚Ã³w Podlaski
+SzydÅ‚owiec
 Warszawa
-Wêgrów
-Wo³omin
-Wyszków
-¯uromin
-Zwoleñ
-¯yrardów
+WÄ™grÃ³w
+WoÅ‚omin
+WyszkÃ³w
+Å»uromin
+ZwoleÅ„
+Å»yrardÃ³w
