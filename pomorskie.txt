@@ -1,148 +1,148 @@
 Abisynia
-Bytów
+BytÃ³w
 Chojnice
-Cz³uchów
-Gdañsk
+CzÅ‚uchÃ³w
+GdaÅ„sk
 Gdynia
 Kartuzy
-Koœcierzyna
+KoÅ›cierzyna
 Kwidzyn
-Lêbork
+LÄ™bork
 Malbork
-Nowy Dwór Gdañski
-P¹czewo
-Pêkalin
-Pêplino
-Pêpowo
-Pêtkowice
-P³achty
-P³aczewo
-P³aczewo
-P³aczewo
-P³aszczyca
-P³aszewko
-P³aszewo
-P³ecno
-P³êsno
-P³êsy
-P³ocice
-P³ocicz
-P³ociczno
-P³ociczno
-P³ocko
-P³onica
-P³onina
-P³otowo
-Po³chówko
-Po³chowo
-Pó³czno
-Po³czyno
-Po³êczyno
-Pólka
-Pólko
-Pólko
-Pó³mieœcie
-Pó³wieœ
+Nowy DwÃ³r GdaÅ„ski
+PÄ…czewo
+PÄ™kalin
+PÄ™plino
+PÄ™powo
+PÄ™tkowice
+PÅ‚achty
+PÅ‚aczewo
+PÅ‚aczewo
+PÅ‚aczewo
+PÅ‚aszczyca
+PÅ‚aszewko
+PÅ‚aszewo
+PÅ‚ecno
+PÅ‚Ä™sno
+PÅ‚Ä™sy
+PÅ‚ocice
+PÅ‚ocicz
+PÅ‚ociczno
+PÅ‚ociczno
+PÅ‚ocko
+PÅ‚onica
+PÅ‚onina
+PÅ‚otowo
+PoÅ‚chÃ³wko
+PoÅ‚chowo
+PÃ³Å‚czno
+PoÅ‚czyno
+PoÅ‚Ä™czyno
+PÃ³lka
+PÃ³lko
+PÃ³lko
+PÃ³Å‚mieÅ›cie
+PÃ³Å‚wieÅ›
 Popielewo
 Popity
 Popowice
-Popówka
+PopÃ³wka
 Popowo
 Popowo
-Por¹b
+PorÄ…b
 Poraj
 Pordenowo
 Porzecze
 Postolin
-Posto³owo
-Potêgowo
-Potêgowo
+PostoÅ‚owo
+PotÄ™gowo
+PotÄ™gowo
 Potoczek
 Potok
 Potoki
-Potu³y
+PotuÅ‚y
 Powalina
-Powa³ki
+PowaÅ‚ki
 Pozolia
-Po¿yczki
+PoÅ¼yczki
 Prabuty
-Pr¹dy
-Pr¹dzona
-Pr¹dzonka
+PrÄ…dy
+PrÄ…dzona
+PrÄ…dzonka
 Prakwice
-Prêgowo
-Prêgowo ¯u³awskie
+PrÄ™gowo
+PrÄ™gowo Å»uÅ‚awskie
 Prokowo
 Pronie
-Proñki
+ProÅ„ki
 Protajny
 Prusewo
 Prusinowo
-Pruszcz Gdañski
-Pryœniewo
-Przebêdowo S³upskie
+Pruszcz GdaÅ„ski
+PryÅ›niewo
+PrzebÄ™dowo SÅ‚upskie
 Przebendowo
 Przechlewko
 Przechlewo
 Przejazdowo
 Przemkowo
-Przemys³aw
-Przep³ochy
+PrzemysÅ‚aw
+PrzepÅ‚ochy
 Przeradz
-Przerêba
-Przerêbska Huta
-Przêsin
-Przês³awek
+PrzerÄ™ba
+PrzerÄ™bska Huta
+PrzÄ™sin
+PrzÄ™sÅ‚awek
 Przetoczyno
-Przew³oka
-Przewóz
-Przewóz
+PrzewÅ‚oka
+PrzewÃ³z
+PrzewÃ³z
 Przezmark
 Przodkowo
 Przybin
 Przyborze
 Przybrodzie
 Przybynin
-PrzyjaŸñ
-PrzyjaŸnia
+PrzyjaÅºÅ„
+PrzyjaÅºnia
 Przyjezierze
 Przylaski
 Przymuszewo
-Przypólsko
+PrzypÃ³lsko
 Przyrowie
 Przytarnia
 Przytocko
 Przywidz
 Psale
 Psalmo
-Pszczó³ki
+PszczÃ³Å‚ki
 Puc
 Puck
-Pud³owiec
-Pu³kowice
-Pu³kownikówka
+PudÅ‚owiec
+PuÅ‚kowice
+PuÅ‚kownikÃ³wka
 Pustki
 Pustki
 Pustkowo
 Pustowo
 Puzdrowo
-Pu¿yce
-R¹b
+PuÅ¼yce
+RÄ…b
 Rabacino
 Rabarnia
 Raciniewo
-Rac³awki
+RacÅ‚awki
 Radogoszcz
-Rados³aw
+RadosÅ‚aw
 Radostowo
 Radoszewo
-Raduñ
+RaduÅ„
 Radunica
-Raduñ-Osiedle
+RaduÅ„-Osiedle
 Radusz
 Radziejewo
 Radzikowo
-Rajkowski M³yn
+Rajkowski MÅ‚yn
 Rajkowy
 Rajkowy Podlas
 Rakowe Pole
@@ -154,74 +154,74 @@ Rakowiska
 Rakowo
 Ramleje
 Ramoty
-Ramzy Ma³e
+Ramzy MaÅ‚e
 Ramzy Wielkie
 Raniewo
-R¹ty
-Rêbiechowo
-Rêbielcz
-Rêbiska
+RÄ…ty
+RÄ™biechowo
+RÄ™bielcz
+RÄ™biska
 Reblinko
 Reblino
-Rêboszewo
-Rêbowo
+RÄ™boszewo
+RÄ™bowo
 Recice
 Reda
-Redêcin
+RedÄ™cin
 Redkowice
 Redwanki
 Redzikowo
 Rekcin
 Rekownica
 Rekowo
-Rekowo Górne
-Rekowo Lêborskie
+Rekowo GÃ³rne
+Rekowo LÄ™borskie
 Reskowo
 Reszki
 Retowo
 Rewa
 Robakowo
-Robakowski M³yn
+Robakowski MÅ‚yn
 Rodowo
-Rodowo Ma³e
+Rodowo MaÅ‚e
 Rogawica
 Rogazy
 Rogowo
 Rokiciny
 Rokitki
 Rokocin
-Roœciszewko
-Roœciszewo
-Rów
-Rówienko
+RoÅ›ciszewko
+RoÅ›ciszewo
+RÃ³w
+RÃ³wienko
 Rowista
-Rówki
-Równe
-Równo
+RÃ³wki
+RÃ³wne
+RÃ³wno
 Rowy
 Rozajny
-Rozajny Ma³e
-Rozdo³y
-Ro¿ental
+Rozajny MaÅ‚e
+RozdoÅ‚y
+RoÅ¼ental
 Rozewie
-Ró¿ewo
+RÃ³Å¼ewo
 Rozgorze
-Ró¿ki
-Roz³azino
-Roz³êka
-Roz³ogi
-Rozpêdziny
+RÃ³Å¼ki
+RozÅ‚azino
+RozÅ‚Ä™ka
+RozÅ‚ogi
+RozpÄ™dziny
 Roztoka
 Roztopczyn
 Rozwalewo
 Rozwory
-Ró¿yny
+RÃ³Å¼yny
 Rucowe Lasy
 Rudawki
 Rudnia
 Rudniki
 Sadlinki
-Sad³uki
+SadÅ‚uki
 Salinko
 Salino
 Sarbsk
@@ -234,7 +234,7 @@ Semlin
 Semlinek
 Sepiot
 Sianowo
-Sianowo Leœne
+Sianowo LeÅ›ne
 Sianowska Huta
 Siecie
 Siedliszcze
@@ -242,7 +242,7 @@ Siemianice
 Siemirowice
 Sienica
 Sierakowice
-Sierakowo S³upskie
+Sierakowo SÅ‚upskie
 Sierakowska Huta
 Sieroczyn
 Sieromino
@@ -252,24 +252,24 @@ Sierzno
 Sierzywk
 Sikorzyno
 Silno
-Siod³onie
-Sitna Góra
+SiodÅ‚onie
+Sitna GÃ³ra
 Sitno
-Siwia³ka
+SiwiaÅ‚ka
 Skarszewo
 Skarszewo
 Skarszewy
-Skarszów Dolny
-Skarszów Górny
+SkarszÃ³w Dolny
+SkarszÃ³w GÃ³rny
 Skibin
 Skoczkowo
 Skolwity
-Skórcz
-Skórowo
-Skórzenno
+SkÃ³rcz
+SkÃ³rowo
+SkÃ³rzenno
 Skorzewo
-Skórzewo
-Skórzyno
+SkÃ³rzewo
+SkÃ³rzyno
 Skoszewko
 Skoszewo
 Skotawsko
@@ -277,24 +277,24 @@ Skowarcz
 Skowarnki
 Skrzeszewo
 Skrzeszewo
-Skrzyd³owo
+SkrzydÅ‚owo
 Skrzynia
 Skwierawy
-S³upsk
+SÅ‚upsk
 Smarzewo
-Sma¿yno
-Smêtowo Chmieleñskie
+SmaÅ¼yno
+SmÄ™towo ChmieleÅ„skie
 Smokowo
-Smol¹g
-Smo³dzino
-Smo³dzino
-Smo³dziñski Las
-Smo³dziny
+SmolÄ…g
+SmoÅ‚dzino
+SmoÅ‚dzino
+SmoÅ‚dziÅ„ski Las
+SmoÅ‚dziny
 Smolniki
 Smolniki
 Smolno
 Sopot
-Starogard Gdañski
+Starogard GdaÅ„ski
 Sztum
 Tczew
 Wejherowo
