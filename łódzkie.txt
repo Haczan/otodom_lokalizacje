@@ -1,65 +1,65 @@
 Altona
-Gorzów Wielkopolski
-Krosno Odrzañskie
-M¹koszyce
-Miêdzyb³ocie
-Miêdzylesie
-Miêdzyrzecz
-Mi³aków
-Mi³ów
-Mi³owice
-Mirocin Górny
-Mirocin Œredni
+GorzÃ³w Wielkopolski
+Krosno OdrzaÅ„skie
+MÄ…koszyce
+MiÄ™dzybÅ‚ocie
+MiÄ™dzylesie
+MiÄ™dzyrzecz
+MiÅ‚akÃ³w
+MiÅ‚Ã³w
+MiÅ‚owice
+Mirocin GÃ³rny
+Mirocin Åšredni
 Mironice
 Mirostowice Dolne
-Mirostowice Górne
-M³odolino
-M³yniec
-M³ynkowo
+Mirostowice GÃ³rne
+MÅ‚odolino
+MÅ‚yniec
+MÅ‚ynkowo
 Moczele
 Modropole
 Modrzyca
 Mokra
-Mokry M³yn
-Moœcice
-Moœciczki
+Mokry MÅ‚yn
+MoÅ›cice
+MoÅ›ciczki
 Mosina
 Mostki
 Mostniki
 Motylewo
-Mozów
-Mrówczyn
+MozÃ³w
+MrÃ³wczyn
 Murowiec
 Murzynowo
-Murzynowo-£omno
+Murzynowo-Åomno
 Muszkowo
 Mycielin
 Mystki
-Myszêcin
-Nab³oto
+MyszÄ™cin
+NabÅ‚oto
 Nieciecz
 Niedoradz
-NiedŸwiady
-NiedŸwiedŸ
-Niegos³aw
-Niegos³awice
+NiedÅºwiady
+NiedÅºwiedÅº
+NiegosÅ‚aw
+NiegosÅ‚awice
 Niekarzyn
 Niemienica
 Niesulice
-Nietków
+NietkÃ³w
 Nietkowice
 Nietoperek
 Niwica
 Niwica
 Niwiska
 Niwy
-Nowa Jab³ona
+Nowa JabÅ‚ona
 Nowa Kopernia
 Nowa Niedrzwica
 Nowa Rola
-Nowa Sól
-Nowa Wieœ
-Nowa Wieœ
+Nowa SÃ³l
+Nowa WieÅ›
+Nowa WieÅ›
 Nowa Wioska
 Nowa Wioska
 Nowe Biskupice
@@ -72,148 +72,148 @@ Nowe Kramsko
 Nowe Kurowo
 Nowe Miasteczko
 Nowe Polichno
-Nowe Str¹cze
-Nowe ¯abno
+Nowe StrÄ…cze
+Nowe Å»abno
 Nowiny
 Nowiny Wielkie
-Nowogród Bobrzañski
+NowogrÃ³d BobrzaÅ„ski
 Nowosiedle
-Nowy Dwór
+Nowy DwÃ³r
 Nowy Dworek
 Nowy Jaromierz
 Nowy Lubusz
-Nowy M³yn
-Nowy M³yn
+Nowy MÅ‚yn
+Nowy MÅ‚yn
 Ojerzyce
 Olbrachcice
-Olbrachtów
-O³obok
+OlbrachtÃ³w
+OÅ‚obok
 Olszewiec
 Olszyna
 Olszyna
-Oœno Lubuskie
-Pa³ck
-Pami¹tkowice
-Pamiêcin
+OÅ›no Lubuskie
+PaÅ‚ck
+PamiÄ…tkowice
+PamiÄ™cin
 Panowice
 Pasterzowice
 Pczelino
 Piaski
-Piaœnica
+PiaÅ›nica
 Piastowo
-Piêkne K¹ty
+PiÄ™kne KÄ…ty
 Pielice
 Pielice
-Pieñkowice
+PieÅ„kowice
 Pierzwin
 Pieski
-Pietrzyków
-Piotrów
+PietrzykÃ³w
+PiotrÃ³w
 Piotrowice
 Piskorzno
-P³aw
-P³awid³o
-P³awin
-Pleœno
+PÅ‚aw
+PÅ‚awidÅ‚o
+PÅ‚awin
+PleÅ›no
 Pliszka
-P³omykowo
-P³onica
-P³oty
+PÅ‚omykowo
+PÅ‚onica
+PÅ‚oty
 Pniewo
-Pniów
-Pobrze¿e
+PniÃ³w
+PobrzeÅ¼e
 Podbiele
 Podbrzezie Dolne
-Podbrzezie Górne
-Podgórze
-Podgórzyce
+Podbrzezie GÃ³rne
+PodgÃ³rze
+PodgÃ³rzyce
 Podjenin
-Pod³a Góra
-Podlegórz
+PodÅ‚a GÃ³ra
+PodlegÃ³rz
 Podlesie
 Podlesiec
-Podmokle Ma³e
+Podmokle MaÅ‚e
 Podmokle Wielkie
-Podoœno
+PodoÅ›no
 Podszkle
-Pokrêt
+PokrÄ™t
 Polanica
 Polanowice
 Pole
-Po³êcko
-Po³êcko
+PoÅ‚Ä™cko
+PoÅ‚Ä™cko
 Policko
 Polne
-Po³upin
+PoÅ‚upin
 Pomorsko
 Ponik
-Popêszyce
+PopÄ™szyce
 Popowo
 Popowo
-Porêba
-Porêbów
+PorÄ™ba
+PorÄ™bÃ³w
 Potok
-Po¿arów
-PóŸna
-PoŸrzad³o
-Pr¹docin
+PoÅ¼arÃ³w
+PÃ³Åºna
+PoÅºrzadÅ‚o
+PrÄ…docin
 Proczki
-Proszów
-Pruszków
+ProszÃ³w
+PruszkÃ³w
 Przeborowo
-Przec³aw
-Prze³azy
-Przemys³aw
-Przeœlice
+PrzecÅ‚aw
+PrzeÅ‚azy
+PrzemysÅ‚aw
+PrzeÅ›lice
 Przetocznica
-Przetocznicki M³yn
-Przewóz
-Przewóz
-PrzewoŸniki
-Przyborów
-Przyborów
+Przetocznicki MÅ‚yn
+PrzewÃ³z
+PrzewÃ³z
+PrzewoÅºniki
+PrzyborÃ³w
+PrzyborÃ³w
 Przyborowice
 Przybymierz
-Przybyszów
-Przychów
+PrzybyszÃ³w
+PrzychÃ³w
 Przyczyna Dolna
-Przyczyna Górna
+Przyczyna GÃ³rna
 Przylaski
-Przy³êg
+PrzyÅ‚Ä™g
 Przynotecko
 Przysieka
 Przytoczna
 Przytok
 Pszczelin
 Pszczew
-Pustków
+PustkÃ³w
 Puszcza
 Puszczykowo
 Pyrnik
 Pyrzany
-Rac³aw
-Radachów
+RacÅ‚aw
+RadachÃ³w
 Radachowo
-Radêcin
+RadÄ™cin
 Radnica
 Radocin
 Radomia
 Radomicko
 Radoszyn
-Radów
-Radówek
+RadÃ³w
+RadÃ³wek
 Radowice
-Radwanów
-Radzików
-Radzyñ
-Raków
+RadwanÃ³w
+RadzikÃ³w
+RadzyÅ„
+RakÃ³w
 Rakowo
-Rañsko
-R¹pice
-R¹pin
+RaÅ„sko
+RÄ…pice
+RÄ…pin
 Raszyn
-Rêbowo
-Rejów
+RÄ™bowo
+RejÃ³w
 Retno
 Rogi
 Rogoziniec
@@ -223,15 +223,15 @@ Rokitno
 Rokitno
 Rokitno-Stacja
 Rolewice
-Roœcice
+RoÅ›cice
 Rosin
-Ros³awice
+RosÅ‚awice
 Roszkowice
-Ró¿anki
-Ró¿anówka
+RÃ³Å¼anki
+RÃ³Å¼anÃ³wka
 Rozkochowo
-Roz³ogi
-Ro¿nówka
+RozÅ‚ogi
+RoÅ¼nÃ³wka
 Roztoki
 Rudawica
 Rudgerzowice
@@ -239,16 +239,16 @@ Rudna
 Rudnica
 Rudno
 Rudziny
-Rusinów
+RusinÃ³w
 Rusocice
 Rybaki
-Rybakówko
+RybakÃ³wko
 Rybakowo
 Rybno
 Rybocice
 Rybojady
 Rybojedzko
-Rybo³owy
+RyboÅ‚owy
 Rychlik
 Rytwiny
 Rzeczyca
@@ -264,37 +264,37 @@ Santok
 Sarbia
 Sarbiewo
 Sarbinowo
-Sarnie £êgi
-Serbów
+Sarnie ÅÄ™gi
+SerbÃ³w
 Siadcza
-Sid³ów
+SidÅ‚Ã³w
 Siecieborzyce
-Sieciejów
+SieciejÃ³w
 Siedlec
 Siedlisko
 Siedlisko
 Siedlnica
 Siemiradz
 Sieniawa
-Sieniawa ¯arska
+Sieniawa Å»arska
 Sienno
-Sieñsk
+SieÅ„sk
 Sieplnica
-Sieraków
+SierakÃ³w
 Siercz
 Sierczynek
-Sieros³awice
+SierosÅ‚awice
 Silna
-Silno Ma³e
-Siod³o
+Silno MaÅ‚e
+SiodÅ‚o
 Sitnica
 Skarbona
 Skrobacz
-S³ubice
-Strzelce Krajeñskie
-Sulêcin
-Œwiebodzin
+SÅ‚ubice
+Strzelce KrajeÅ„skie
+SulÄ™cin
+Åšwiebodzin
 Wschowa
-¯agañ
-¯ary
-Zielona Góra
+Å»agaÅ„
+Å»ary
+Zielona GÃ³ra
