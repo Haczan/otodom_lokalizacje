@@ -1,74 +1,74 @@
-Adamówka
-Brzozów
-Dêbica
-Jaros³aw
-Jas³o
+AdamÃ³wka
+BrzozÃ³w
+DÄ™bica
+JarosÅ‚aw
+JasÅ‚o
 Kolbuszowa
 Krosno
-£añcut
+ÅaÅ„cut
 Lesko
-Le¿ajsk
-Lubaczów
+LeÅ¼ajsk
+LubaczÃ³w
 Mielec
 Nisko
 Nockowa
-Nosówka
-Nowa Dêba
+NosÃ³wka
+Nowa DÄ™ba
 Nowa Grobla
 Nowa Sarzyna
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
 Nowe Baraki
 Nowe Brusno
 Nowe Sady
-Nowe Sio³o
+Nowe SioÅ‚o
 Nowiny
 Nowiny Horynieckie
 Nowosielce
 Nowosielce
 Nowosielce Kozickie
 Nowosielec
-Nowosió³ki
-Nowosió³ki Dydyñskie
+NowosiÃ³Å‚ki
+NowosiÃ³Å‚ki DydyÅ„skie
 Nowotaniec
 Nowy Borek
 Opacie
 Opacionka
 Opaka
 Opaleniska
-Oparówka
+OparÃ³wka
 Orelec
 Orliska
-Or³ów
-Or³y
-Orzechów
+OrÅ‚Ã³w
+OrÅ‚y
+OrzechÃ³w
 Orzechowce
-Orzechówka
-Osada Leœna
+OrzechÃ³wka
+Osada LeÅ›na
 Osiek Jasielski
-Os³awica
+OsÅ‚awica
 Osobnica
-Ostrów
-Ostrów
-Ostrów
-Ostrów
-Ostrówek
+OstrÃ³w
+OstrÃ³w
+OstrÃ³w
+OstrÃ³w
+OstrÃ³wek
 Ostrowy Baranowskie
 Ostrowy Tuszowskie
-Ota³ê¿
-O¿anna
-O¿añsk
-O¿enna
+OtaÅ‚Ä™Å¼
+OÅ¼anna
+OÅ¼aÅ„sk
+OÅ¼enna
 Padew Narodowa
-Pagórek
-Pakoszówka
-Palikówka
+PagÃ³rek
+PakoszÃ³wka
+PalikÃ³wka
 Paluchy
-Paniszczów
+PaniszczÃ³w
 Pantalowice
 Paportno-Sopotnik
 Parcelacja
@@ -77,40 +77,40 @@ Partynia
 Pastwiska
 Paszczyna
 Paszowa
-Paw³okoma
-Paw³osiów
-Paw³owa
-Pe³kinie
-Pe³natycze
+PawÅ‚okoma
+PawÅ‚osiÃ³w
+PawÅ‚owa
+PeÅ‚kinie
+PeÅ‚natycze
 Piaski
 Piastowo
 Piechoty
-Piek³o
+PiekÅ‚o
 Pielgrzymka
 Pielnia
 Pierzchne
 Pietrusza Wola
-Przemyœl
+PrzemyÅ›l
 Przeworsk
 Raczkowa
-R¹czyna
-Radomyœl nad Sanem
-Radomyœl Wielki
-Radoœæ
+RÄ…czyna
+RadomyÅ›l nad Sanem
+RadomyÅ›l Wielki
+RadoÅ›Ä‡
 Radoszyce
-Radru¿
+RadruÅ¼
 Radymno
 Radziejowa
 Rajskie
 Rakowa
 Rakszawa
-Rani¿ów
+RaniÅ¼Ã³w
 Ratnawica
 Reczpol
 Rogi
-RogóŸnia
-RogoŸnica
-Rogó¿no
+RogÃ³Åºnia
+RogoÅºnica
+RogÃ³Å¼no
 Rokietnica
 Rokszyce
 Ropczyce
@@ -118,64 +118,64 @@ Ropianka
 Ropienka
 Rosochate
 Rosolin
-Równe
-Równia
-Ró¿a
+RÃ³wne
+RÃ³wnia
+RÃ³Å¼a
 Rozalin
-Ró¿anka
-Rozbórz
-Rozbórz D³ugi
-Rozbórz Okr¹g³y
-Ro¿niatów
-Ro¿niaty
+RÃ³Å¼anka
+RozbÃ³rz
+RozbÃ³rz DÅ‚ugi
+RozbÃ³rz OkrÄ…gÅ‚y
+RoÅ¼niatÃ³w
+RoÅ¼niaty
 Rozpucie
 Rozstajne
 Roztoka
 Roztoki
 Roztoki Dolne
-Ro¿ubowice
-RoŸwienica
+RoÅ¼ubowice
+RoÅºwienica
 Ruda
 Ruda
-Ruda £añcucka
-Ruda Ró¿aniecka
+Ruda ÅaÅ„cucka
+Ruda RÃ³Å¼aniecka
 Rudawka
-Rudawka Jaœliska
+Rudawka JaÅ›liska
 Rudawka Rymanowska
 Rudenka
 Rudka
-Rudna Ma³a
+Rudna MaÅ‚a
 Rudna Wielka
 Rudnik nad Sanem
-Rudo³owice
-Rusinów
+RudoÅ‚owice
+RusinÃ³w
 Ruszelczyce
 Rybne
 Rybotycze
 Ryczki
-Rydzów
-Rymanów
-Rymanów-Zdrój
+RydzÃ³w
+RymanÃ³w
+RymanÃ³w-ZdrÃ³j
 Ryszkowa Wola
-Rzeczyca D³uga
-Rzeczyca Okr¹g³a
-Rzêdzianowice
-Rzemieñ
-RzepedŸ
+Rzeczyca DÅ‚uga
+Rzeczyca OkrÄ…gÅ‚a
+RzÄ™dzianowice
+RzemieÅ„
+RzepedÅº
 Rzeplin
 Rzepnik
-Rzeszów
-Rzuchów
+RzeszÃ³w
+RzuchÃ³w
 Sadki
-Sadkowa Góra
+Sadkowa GÃ³ra
 Sakowczyk
-Samoklêski
+SamoklÄ™ski
 Sanoczek
 Sanok
-Sarnów
+SarnÃ³w
 Sarzyna
 Serednica
-Serednie Ma³e
+Serednie MaÅ‚e
 Sianki
 Siedlanka
 Siedleczka
@@ -184,116 +184,116 @@ Siedliska
 Siedliska
 Siedliska
 Siedliska-Bogusz
-Siedliska S³awêciñskie
-Siedliska ¯migrodzkie
-Sieklówka
+Siedliska SÅ‚awÄ™ciÅ„skie
+Siedliska Å»migrodzkie
+SieklÃ³wka
 Sielec
 Sielnica
 Siemuszowa
 Sieniawa
 Sieniawa
-Siennów
+SiennÃ³w
 Siepietnica
-Sierakoœce
-Sieraków
+SierakoÅ›ce
+SierakÃ³w
 Sietesz
-Sigie³ki
+SigieÅ‚ki
 Skalnik
 Skolin
-Sko³oszów
-Sko³yszyn
+SkoÅ‚oszÃ³w
+SkoÅ‚yszyn
 Skopanie
-Skopów
+SkopÃ³w
 Skorodne
 Skowierzyn
-Skrzyszów
+SkrzyszÃ³w
 Skurowa
-Smar¿owa
+SmarÅ¼owa
 Smereczne
 Smerek
 Smolarzyny
 Smolnik
 Smolnik
 Sobiecin
-Sobniów
+SobniÃ³w
 Sokole
 Sokoliki
 Sokolniki
-Soko³owa Wola
-Soko³ów Ma³opolski
+SokoÅ‚owa Wola
+SokoÅ‚Ã³w MaÅ‚opolski
 Solina
 Solinka
-So³onka
+SoÅ‚onka
 Sonina
-Soœnica
-Soœnica-Brzeg
+SoÅ›nica
+SoÅ›nica-Brzeg
 Sowina
-Srogów Dolny
-Srogów Górny
+SrogÃ³w Dolny
+SrogÃ³w GÃ³rny
 Stale
 Stalowa Wola
-Stanis³awczyk
+StanisÅ‚awczyk
 Staniszewskie
-Stañkowa
+StaÅ„kowa
 Stany
 Stara Bircza
 Stara Huta
-Stara Jastrz¹bka
-Stara Wieœ
+Stara JastrzÄ…bka
+Stara WieÅ›
 Stare Baraki
 Stare Miasto
 Stare Oleszyce
-Stare Sio³o
-Stary Dzików
+Stare SioÅ‚o
+Stary DzikÃ³w
 Stary Jawornik
 Stary Lubliniec
-Stary £upków
+Stary ÅupkÃ³w
 Stary Nart
-Stary ¯migród
+Stary Å»migrÃ³d
 Starzawa
-Stasiówka
+StasiÃ³wka
 Stefkowa
-Stêpina
-Stê¿nica
+StÄ™pina
+StÄ™Å¼nica
 Stobierna
 Stobierna
 Strachocina
-Straszêcin
+StraszÄ™cin
 Straszydle
-Stra¿ów
-Stró¿e Ma³e
-Stró¿e Wielkie
+StraÅ¼Ã³w
+StrÃ³Å¼e MaÅ‚e
+StrÃ³Å¼e Wielkie
 Strzebowiska
 Strzegocice
-Strzy¿ów
+StrzyÅ¼Ã³w
 Stubienko
 Stubno
 Studenne
 Studzian
 Studzieniec
 Stuposiany
-Styków
+StykÃ³w
 Sucha Wola
-Suchorzów
+SuchorzÃ³w
 Sufczyna
 Sukowate
 Sulistrowa
-Surmaczówka
-Surochów
+SurmaczÃ³wka
+SurochÃ³w
 Surowa
 Surowica
-Szafranów
+SzafranÃ³w
 Szczawne
-Szczepañcowa
-Szczerbanówka
-Szczutków
+SzczepaÅ„cowa
+SzczerbanÃ³wka
+SzczutkÃ³w
 Szczytna
 Szebnie
 Szeliga
 Szklary
 Szklary
 Szkodna
-Szlakówka
+SzlakÃ³wka
 Szufnarowa
 Szwedy
 Tarnobrzeg
