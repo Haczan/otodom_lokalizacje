@@ -1,21 +1,21 @@
-Bêdzin
-Bielsko-Bia³a
-Bieruñ
+BÄ™dzin
+Bielsko-BiaÅ‚a
+BieruÅ„
 Bytom
-Chorzów
+ChorzÃ³w
 Cieszyn
-Czêstochowa
-D¹browa Górnicza
+CzÄ™stochowa
+DÄ…browa GÃ³rnicza
 Gliwice
-Jastrzêbie-Zdrój
+JastrzÄ™bie-ZdrÃ³j
 Jaworzno
 Katowice
-K³obuck
+KÅ‚obuck
 Lubliniec
-Miko³ów
-Mys³owice
-Myszków
-Nêdza
+MikoÅ‚Ã³w
+MysÅ‚owice
+MyszkÃ³w
+NÄ™dza
 Niekarmia
 Nieledwia
 Nierada
@@ -24,24 +24,24 @@ Niezdara
 Nieznanice
 Niwki
 Niwy
-Nowa KuŸnica
-Nowa Si¹garnia
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ Tworoska
-Nowa Wieœ za So³¹
+Nowa KuÅºnica
+Nowa SiÄ…garnia
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ› Tworoska
+Nowa WieÅ› za SoÅ‚Ä…
 Nowa Wioska
 Nowa Wioska
 Nowe Bojszowy
-Nowe Chech³o
+Nowe ChechÅ‚o
 Nowiny
 Nowy Broniszew
 Nowy Folwark
 Nowy Kocin
 Oblasy
-Ochaby Ma³e
+Ochaby MaÅ‚e
 Ochaby Wielkie
 Oczko
 Odra
@@ -49,168 +49,168 @@ Ogorzelnik
 Ogrodzieniec
 Ogrodzona
 Ogumie
-Oko³owice
-Okr¹glik
-Okr¹glik
+OkoÅ‚owice
+OkrÄ…glik
+OkrÄ…glik
 Okrajnik
 Olbrachcice
 Olsztyn
 Olszyna
-O³udza
+OÅ‚udza
 Olza
-Opatów
+OpatÃ³w
 Ornontowice
 Orzech
 Orzesze
-Orzeszków
+OrzeszkÃ³w
 Osiek
 Osiniec
 Osiny
 Osiny
 Osowiec
 Ossy
-Ostra Górka
+Ostra GÃ³rka
 Ostre
-Ostrê¿nik
-Ostrów
-Ostrów
-Ostrów-Leœniczówka
-Ostrowy nad Oksz¹
+OstrÄ™Å¼nik
+OstrÃ³w
+OstrÃ³w
+OstrÃ³w-LeÅ›niczÃ³wka
+Ostrowy nad OkszÄ…
 Otola
-Otola Ma³a
+Otola MaÅ‚a
 Owsiszcze
-O¿arowice
+OÅ¼arowice
 Pabianice
-Pacanów
-Pacierzów
+PacanÃ³w
+PacierzÃ³w
 Paczyna
 Paczynka
-Paku³y
+PakuÅ‚y
 Palowice
-Paniówki
+PaniÃ³wki
 Panki
-Panoszów
+PanoszÃ³w
 Parkoszowice
 Parkoszowice-Kolonia
-Parkowe-Leœniczówka
+Parkowe-LeÅ›niczÃ³wka
 Parzymiechy
-Paszów
+PaszÃ³w
 Patoka
-Pêkowiec
-Piekary Œl¹skie
-P³aczki
-P³awniowice
-P³u¿niczka
-Poddêbina
+PÄ™kowiec
+Piekary ÅšlÄ…skie
+PÅ‚aczki
+PÅ‚awniowice
+PÅ‚uÅ¼niczka
+PoddÄ™bina
 Podgaj
 Podkaszczor
 Podlesice
 Podlesie
-Podleœna
-Pod³ê¿e Królewskie
-Pod³ê¿e Szlacheckie
+PodleÅ›na
+PodÅ‚Ä™Å¼e KrÃ³lewskie
+PodÅ‚Ä™Å¼e Szlacheckie
 Podlipie
 Podpapiernia
 Podwarpie
 Podzamcze
-Pogórze
+PogÃ³rze
 Pogorzele
-Pogrzebieñ
-Pogwizdów
-Po³omia
-Po³omia
+PogrzebieÅ„
+PogwizdÃ³w
+PoÅ‚omia
+PoÅ‚omia
 Polska
-Poniêcice
+PoniÄ™cice
 Ponik
 Poniszowice
-Popów
-Por¹bka
+PopÃ³w
+PorÄ…bka
 Poraj
-Porêba
-Porêba
+PorÄ™ba
+PorÄ™ba
 Postaszowice
-Postêp
-Potêpa
-Prad³a
+PostÄ™p
+PotÄ™pa
+PradÅ‚a
 Praszczyki
-Preczów
+PreczÃ³w
 Proboszczowice
 Pruchna
 Przeczyce
-Przegêdza
+PrzegÄ™dza
 Przezchlebie
-Przybêdza
-Przyborów
-Przyby³ów
-Przybynów
+PrzybÄ™dza
+PrzyborÃ³w
+PrzybyÅ‚Ã³w
+PrzybynÃ³w
 Przychody
 Przykopy
-Przy³êk
-Przy³êków
-Przy³ubsko
-Przymi³owice
-Przymi³owice-Kotysów
-Przymi³owice-Podgrabie
-Przyrów
-Przystajñ
+PrzyÅ‚Ä™k
+PrzyÅ‚Ä™kÃ³w
+PrzyÅ‚ubsko
+PrzymiÅ‚owice
+PrzymiÅ‚owice-KotysÃ³w
+PrzymiÅ‚owice-Podgrabie
+PrzyrÃ³w
+PrzystajÅ„
 Przyszowice
 Psary
 Psary
-Pstr¹¿na
+PstrÄ…Å¼na
 Pszczyna
-Pszów
+PszÃ³w
 Ptakowice
-Puñców
-Pusta KuŸnica
+PuÅ„cÃ³w
+Pusta KuÅºnica
 Pustkowie Lgockie
 Puszczew
 Pyrzowice
 Pyskowice
 Rachowice
-Racibórz
+RacibÃ³rz
 Raczkowice
 Raczkowice-Kolonia
 Radlin
 Radonia
-Radostków
-Radostków-Kolonia
+RadostkÃ³w
+RadostkÃ³w-Kolonia
 Radostowice
 Radoszewnica
-Raduñ
+RaduÅ„
 Radziechowy
-Radzionków
+RadzionkÃ³w
 Rajcza
 Rajsko
 Raszczyce
-Rêbielice
-Rêbielice Królewskie
-Rêbielice Szlacheckie
-Rêdziny
-Rêdziny
-Rêkszowice
+RÄ™bielice
+RÄ™bielice KrÃ³lewskie
+RÄ™bielice Szlacheckie
+RÄ™dziny
+RÄ™dziny
+RÄ™kszowice
 Rogaczew
-Rogów
-RogoŸnik
+RogÃ³w
+RogoÅºnik
 Rokitno
 Rokitno Szlacheckie
-Romanów
-Roszków
+RomanÃ³w
+RoszkÃ³w
 Rozalin
 Roztropice
 Ruda
 Ruda Kozielska
-Ruda Œl¹ska
+Ruda ÅšlÄ…ska
 Rudnik
 Rudnik
 Rudniki
 Rudniki
 Rudniki-Kolonia
-Rudnik Ma³y
+Rudnik MaÅ‚y
 Rudnik Wielki
 Rudno
-Rudo³towice
+RudoÅ‚towice
 Rudy
-Rudyszwa³d
+RudyszwaÅ‚d
 Rudzica
 Rudziczka
 Rudziniec
@@ -220,81 +220,81 @@ Rybna
 Rybnik
 Rybno
 Rycerka Dolna
-Rycerka Górna
-Rychwa³d
-Rychwa³dek
-Ryczów
-Ryczów-Kolonia
-Rydu³towy
+Rycerka GÃ³rna
+RychwaÅ‚d
+RychwaÅ‚dek
+RyczÃ³w
+RyczÃ³w-Kolonia
+RyduÅ‚towy
 Rywaczki
 Rzeczyce
-Rzêdkowice
-Rzeki Ma³e
+RzÄ™dkowice
+Rzeki MaÅ‚e
 Rzeki Wielkie
-Rzeniszów
-Rzerzêczyce
-Rzuchów
+RzeniszÃ³w
+RzerzÄ™czyce
+RzuchÃ³w
 Rzyce
-Sadów
+SadÃ³w
 Sadowie
 Sadowie
 Samborowice
-Sarnów
-Sarnów
+SarnÃ³w
+SarnÃ³w
 Siadcza
 Siamoszyce
 Siedlec
-Siedlec Du¿y
-Siedlec Ma³y
+Siedlec DuÅ¼y
+Siedlec MaÅ‚y
 Siedliska
 Siedliska
 Siedliszowice
 Siekierowizna
-Siemianowice Œl¹skie
-Siemiêrzyce
+Siemianowice ÅšlÄ…skie
+SiemiÄ™rzyce
 Siemonia
 Sienna
-Sieraków
+SierakÃ³w
 Sierakowice
-Sieraków Œl¹ski
+SierakÃ³w ÅšlÄ…ski
 Sierbowice
-Siernicze-Gajówka
+Siernicze-GajÃ³wka
 Sieroty
 Siewierz
 Simoradz
-Ska³ka
-Skoczów
-Skowronów
-Skowronów
+SkaÅ‚ka
+SkoczÃ³w
+SkowronÃ³w
+SkowronÃ³w
 Skrajnica
 Skrajniwa
-Skrbeñsko
-Skrzydlów
-Skrzyd³owice
-Skrzyszów
+SkrbeÅ„sko
+SkrzydlÃ³w
+SkrzydÅ‚owice
+SkrzyszÃ³w
 Smardzew
 Smolarze
-Smoleñ
+SmoleÅ„
 Smolnica
-Smyków
+SmykÃ³w
 Sobkowe
-Soblówka
+SoblÃ³wka
 Soborzyce
 Sobuczyna
-Sokole Góry
+Sokole GÃ³ry
 Sokole Pole
 Sokolniki
 Solarnia
 Solca
-Sopotnia Ma³a
+Sopotnia MaÅ‚a
 Sopotnia Wielka
 Sosnowiec
 Srocko
-Œwiêtoch³owice
-Tarnowskie Góry
+ÅšwiÄ™tochÅ‚owice
+Tarnowskie GÃ³ry
 Tychy
-Wodzis³aw Œl¹ski
+WodzisÅ‚aw ÅšlÄ…ski
 Zabrze
 Zawiercie
-¯ory
-¯ywiec
+Å»ory
+Å»ywiec
