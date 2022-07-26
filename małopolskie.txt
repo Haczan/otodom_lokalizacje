@@ -1,120 +1,120 @@
 Adamierz
 Bochnia
 Brzesko
-Chrzanów
-D¹browa Tarnowska
+ChrzanÃ³w
+DÄ…browa Tarnowska
 Gorlice
-Kraków
+KrakÃ³w
 Limanowa
-Miechów
-Myœlenice
-Nowy S¹cz
+MiechÃ³w
+MyÅ›lenice
+Nowy SÄ…cz
 Nowy Targ
 Olkusz
-O³piny
-Ostrê¿nica
-Ostrów
-Ostrów
-Ostrów Królewski
+OÅ‚piny
+OstrÄ™Å¼nica
+OstrÃ³w
+OstrÃ³w
+OstrÃ³w KrÃ³lewski
 Ostrowsko
-Ostrów Szlachecki
-Oœwiêcim
-Otfinów
+OstrÃ³w Szlachecki
+OÅ›wiÄ™cim
+OtfinÃ³w
 Owczarnia
 Owczary
 Owczary
 Owieczka
-Paczó³towice
+PaczÃ³Å‚towice
 Pagorzyna
 Palcza
 Palczowice
-Pa³ecznica
-Paleœnica
-Pamiêcice
+PaÅ‚ecznica
+PaleÅ›nica
+PamiÄ™cice
 Parcelacja
 Parkoszowice
 Pasieka Otfinowska
 Pasierbiec
 Pasternik
-Paszkówka
+PaszkÃ³wka
 Paszyn
-Pawêzów
+PawÄ™zÃ³w
 Pawlikowice
-Paw³ów
+PawÅ‚Ã³w
 Pazurek
-Pêkowice
-Pi¹tkowa
+PÄ™kowice
+PiÄ…tkowa
 Pietrzejowice
-Pi³a Koœcielecka
-Piotrkowice Ma³e
+PiÅ‚a KoÅ›cielecka
+Piotrkowice MaÅ‚e
 Piotrkowice Wielkie
 Piotrowice
 Piotrowice
 Pisary
 Pisarzowa
-Piwniczna-Zdrój
-P³awna
-P³awowice
-P³awy
-P³aza
-P³oki
-Pó³wieœ
+Piwniczna-ZdrÃ³j
+PÅ‚awna
+PÅ‚awowice
+PÅ‚awy
+PÅ‚aza
+PÅ‚oki
+PÃ³Å‚wieÅ›
 Proszowice
 Pstroszyce Pierwsze
-Raba Ni¿na
-Raba Wy¿na
-Rabka-Zdrój
-R¹bkowa
+Raba NiÅ¼na
+Raba WyÅ¼na
+Rabka-ZdrÃ³j
+RÄ…bkowa
 Rabsztyn
-Rachwa³owice
+RachwaÅ‚owice
 Raciborowice
 Raciborsko
 Raciechowice
-Rac³awice
-Rac³awice
-Rac³awice
-R¹czna
+RacÅ‚awice
+RacÅ‚awice
+RacÅ‚awice
+RÄ…czna
 Radgoszcz
 Radlna
-Rad³ów
+RadÅ‚Ã³w
 Radocyna
 Radocza
 Radwan
 Radwanowice
 Radziemice
-Radziszów
+RadziszÃ³w
 Rajbrot
 Rajsko
 Rajsko
-Raszówek
-Ratajów
-Ratu³ów
-Rawa³owice
+RaszÃ³wek
+RatajÃ³w
+RatuÅ‚Ã³w
+RawaÅ‚owice
 Rdzawa
 Rdzawka
-Rdziostów
-Rêdziny
-Rêdziny-Borek
-Rêdziny Zbigalskie
-Regietów
+RdziostÃ³w
+RÄ™dziny
+RÄ™dziny-Borek
+RÄ™dziny Zbigalskie
+RegietÃ³w
 Regulice
 Roczyny
 Rodaki
 Rogi
-Rogów
-RogoŸnik
-Rokiciny Podhalañskie
-Roków
+RogÃ³w
+RogoÅºnik
+Rokiciny PodhalaÅ„skie
+RokÃ³w
 Ropa
-Ropica Górna
+Ropica GÃ³rna
 Ropica Polska
 Ropki
 Rozdziele
 Rozdziele
-Rozkochów
-Ro¿nów
-Ro¿nowa
-Ro¿nowice
+RozkochÃ³w
+RoÅ¼nÃ³w
+RoÅ¼nowa
+RoÅ¼nowice
 Roztoka
 Roztoka
 Roztoka
@@ -127,34 +127,34 @@ Rudka
 Rudnik
 Rudno
 Rudno Dolne
-Rudno Górne
+Rudno GÃ³rne
 Rudy-Rysie
 Rudze
-Rupniów
+RupniÃ³w
 Rusocice
 Rybna
-Rychwa³d
-Ryczów
-Ryczówek
+RychwaÅ‚d
+RyczÃ³w
+RyczÃ³wek
 Ryglice
 Rylowa
 Rytro
-Rz¹chowa
-Rz¹ska
-Rzêdowice
-Rzêdowice
-Rzemiêdzice
+RzÄ…chowa
+RzÄ…ska
+RzÄ™dowice
+RzÄ™dowice
+RzemiÄ™dzice
 Rzepiennik Biskupi
 Rzepiennik Marciszewski
-Rzepiennik Strzy¿ewski
+Rzepiennik StrzyÅ¼ewski
 Rzepiennik Suchy
 Rzepiska
 Rzeplin
 Rzepowskie
 Rzeszotary
 Rzezawa
-Rze¿uœnia
-Rzozów
+RzeÅ¼uÅ›nia
+RzozÃ³w
 Rzuchowa
 Rzyki
 Sadek
@@ -180,74 +180,74 @@ Siedliska
 Siedliszowice
 Siekierczyna
 Siekierczyna
-Siemiechów
+SiemiechÃ³w
 Sieniawa
 Sieniczno
 Sienna
 Siepraw
 Sieradza
-Sieraków
+SierakÃ³w
 Siercza
 Sierockie
-Sieros³awice
+SierosÅ‚awice
 Sikorzyce
-Sio³kowa
+SioÅ‚kowa
 Sitnica
-Ska³a
+SkaÅ‚a
 Skawa
 Skawce
 Skawica
 Skawina
 Skawinki
-Skidziñ
-Sk³adziste
-Skomielna Bia³a
+SkidziÅ„
+SkÅ‚adziste
+Skomielna BiaÅ‚a
 Skomielna Czarna
 Skrudzina
 Skrzeszowice
-Skrzêtla-Rojówka
+SkrzÄ™tla-RojÃ³wka
 Skrzydlna
 Skrzynka
 Skrzynka
 Skrzypne
-Skrzyszów
+SkrzyszÃ³w
 Skwirtne
 Smardzowice
-Smêgorzów
+SmÄ™gorzÃ³w
 Smerekowiec
 Smolice
 Smoniowice
-Smroków
-Smyków
-Sobiesêki
-Sobolów
-Soko³owice
+SmrokÃ³w
+SmykÃ³w
+SobiesÄ™ki
+SobolÃ³w
+SokoÅ‚owice
 Solcza
 Sosnowice
 Sowliny
 Spytkowice
 Spytkowice
-Sromowce Ni¿ne
-Sromowce Wy¿ne
-Stad³a
+Sromowce NiÅ¼ne
+Sromowce WyÅ¼ne
+StadÅ‚a
 Stadniki
-Stani¹tki
-Stanis³aw Dolny
-Stanis³aw Górny
-Stanis³awice
-Stañkowa
-Stara Wieœ
-Stara Wieœ
+StaniÄ…tki
+StanisÅ‚aw Dolny
+StanisÅ‚aw GÃ³rny
+StanisÅ‚awice
+StaÅ„kowa
+Stara WieÅ›
+Stara WieÅ›
 Stare Bystre
 Stare Lisiny
 Stare Rybie
-Stare ¯ukowice
-Stary S¹cz
-Stary Wiœnicz
-Stasikówka
+Stare Å»ukowice
+Stary SÄ…cz
+Stary WiÅ›nicz
+StasikÃ³wka
 Stasinka
 Staszkowie
-Staszkówka
+StaszkÃ³wka
 Stawisza
 Stawy Monowskie
 Sterkowiec
@@ -255,27 +255,27 @@ Stogniowice
 Stojowice
 Stoki
 Stradomka
-Strêgoborzyce
-Strojców
+StrÄ™goborzyce
+StrojcÃ³w
 Stronie
 Stronie
-Stró¿a
-Stró¿a
-Stró¿e
-Stró¿e
-Stró¿na
-Stró¿ówka
+StrÃ³Å¼a
+StrÃ³Å¼a
+StrÃ³Å¼e
+StrÃ³Å¼e
+StrÃ³Å¼na
+StrÃ³Å¼Ã³wka
 Strumiany
 Stryszawa
-Stryszów
+StryszÃ³w
 Stryszowa
 Strzegowa
-Strzelce Ma³e
+Strzelce MaÅ‚e
 Strzelce Wielkie
 Strzeszyce
 Strzeszyn
-Strze¿ów Drugi
-Strze¿ów Pierwszy
+StrzeÅ¼Ã³w Drugi
+StrzeÅ¼Ã³w Pierwszy
 Studzienki
 Sucha
 Sucha Beskidzka
@@ -283,18 +283,18 @@ Sucha Struga
 Suche
 Suchoraba
 Suchy Grunt
-Sudo³ek
+SudoÅ‚ek
 Sufczyn
 Sukmanie
-Sulechów
-Sulis³awice
-Su³ków
-Su³kowice
-Su³kowice
-Su³kowice
-Su³oszowa
-Sutków
-Tarnów
+SulechÃ³w
+SulisÅ‚awice
+SuÅ‚kÃ³w
+SuÅ‚kowice
+SuÅ‚kowice
+SuÅ‚kowice
+SuÅ‚oszowa
+SutkÃ³w
+TarnÃ³w
 Wadowice
 Wieliczka
 Zakopane
