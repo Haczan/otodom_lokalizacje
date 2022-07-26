@@ -1,52 +1,52 @@
 Agnieszczyn
 Brzeg
-G³ubczyce
-Kêdzierzyn-KoŸle
+GÅ‚ubczyce
+KÄ™dzierzyn-KoÅºle
 Kluczbork
 Krapkowice
-M¹koszyce
-Mi³osna
-Mi³oszowice
-Mi³owice
+MÄ…koszyce
+MiÅ‚osna
+MiÅ‚oszowice
+MiÅ‚owice
 Mirowszczyzna
 Miskowe
-M³odnik
-M³odoszowice
-M³odziejowice
-M³okicie
-M³yny
+MÅ‚odnik
+MÅ‚odoszowice
+MÅ‚odziejowice
+MÅ‚okicie
+MÅ‚yny
 Mnichus
-Mochów
+MochÃ³w
 Mokra
 Mokre
 Mokre-Kolonia
 Molestowice
-Morów
+MorÃ³w
 Mostki
 Moszczanka
 Moszczanka-Kolonia
 Moszna
 Mroczkowa
-Mœcis³aw
-Murów
-Myœliborzyce
-Myœlina
+MÅ›cisÅ‚aw
+MurÃ³w
+MyÅ›liborzyce
+MyÅ›lina
 Myszowice
-Naczês³awice
-Naczys³awki
-Nadziejów
-Nag³ów
-Nak³o
-Namys³ów
+NaczÄ™sÅ‚awice
+NaczysÅ‚awki
+NadziejÃ³w
+NagÅ‚Ã³w
+NakÅ‚o
+NamysÅ‚Ã³w
 Narok
 Nasale
 Nasiedle
-Nêdza
+NÄ™dza
 Niekazanice
 Niemodlin
-Niemys³owice
+NiemysÅ‚owice
 Nieradowice
-Niesiebêdowice
+NiesiebÄ™dowice
 Niewodniki
 Niezdrowice
 Nieznaszyn
@@ -60,40 +60,40 @@ Nowa Bogacica
 Nowa Cerekwia
 Nowa Jamka
 Nowaki
-Nowa KuŸnia
+Nowa KuÅºnia
 Nowa Schodnia
-Nowa Wieœ
-Nowa Wieœ
-Nowa Wieœ G³ubczycka
-Nowa Wieœ Ma³a
-Nowa Wieœ Prudnicka
+Nowa WieÅ›
+Nowa WieÅ›
+Nowa WieÅ› GÅ‚ubczycka
+Nowa WieÅ› MaÅ‚a
+Nowa WieÅ› Prudnicka
 Nowe Budkowice
-Nowe Go³uszowice
+Nowe GoÅ‚uszowice
 Nowe Karmonki
 Nowe Kolnie
 Nowe Kotkowice
 Nowe Sady
-Nowe Sio³kowice
+Nowe SioÅ‚kowice
 Nowe Smarchowice
 Nowy Browiniec
 Nowy Bugaj
-Nowy Dwór Prudnicki
+Nowy DwÃ³r Prudnicki
 Nowy Folwark
 Nowy Las
-Nowy Ro¿nów
-Nowy Œwiat
-Nowy Œwiêtów
-Nowy Wachów
+Nowy RoÅ¼nÃ³w
+Nowy Åšwiat
+Nowy ÅšwiÄ™tÃ³w
+Nowy WachÃ³w
 Nysa
 Objazda
-Obórki
+ObÃ³rki
 Obrowiec
 Ochodze
 Odcinek
-Odrow¹¿
+OdrowÄ…Å¼
 Ogiernicze
-Ogonów
-Oko³y
+OgonÃ³w
+OkoÅ‚y
 Okopy
 Olbrachcice
 Oldrzyszowice
@@ -105,140 +105,140 @@ Olszynka
 Opawica
 Opole
 Ortowice
-Oœ
+OÅ›
 Osiecko
-Osiedle Pasterówka
-Osiedle Pionierów
+Osiedle PasterÃ³wka
+Osiedle PionierÃ³w
 Osiek
-Osiek Du¿y
+Osiek DuÅ¼y
 Osiek Grodkowski
 Osiny
 Osowiec
-Ostro³êka
-Ostro¿nica
+OstroÅ‚Ä™ka
+OstroÅ¼nica
 Otmice
-Otmuchów
+OtmuchÃ³w
 Otoki
 Ozimek
-Paczków
-P¹gów
-Pakos³awice
-Pakoszów
+PaczkÃ³w
+PÄ…gÃ³w
+PakosÅ‚awice
+PakoszÃ³w
 Pakoszyn
 Paruszowice
-Paw³ów
-Paw³owice
-Paw³owice Namys³owskie
-Paw³owiczki
-Pêpice
+PawÅ‚Ã³w
+PawÅ‚owice
+PawÅ‚owice NamysÅ‚owskie
+PawÅ‚owiczki
+PÄ™pice
 Piastowice
-Pi¹tkowice
+PiÄ…tkowice
 Piechocice
 Pieczyska
-Pielgrzymów
+PielgrzymÃ³w
 Pielgrzymowice
-Pieñki
+PieÅ„ki
 Pietna
-Pietraszów
+PietraszÃ³w
 Pietrowice
-Pi³a
+PiÅ‚a
 Pilszcz
 Piorunkowice
 Piotrowa
 Piotrowice Nyskie
-Piotrówka
+PiotrÃ³wka
 Pisarzowice
 Pisarzowice
-Pleœnica
+PleÅ›nica
 Pludry
-P³u¿nica Wielka
+PÅ‚uÅ¼nica Wielka
 Pniewie
-Poborszów
-Pociêkarb
-Poczo³ków
-Podkamieñ
+PoborszÃ³w
+PociÄ™karb
+PoczoÅ‚kÃ³w
+PodkamieÅ„
 Podlesie
 Podlesie
-Pogorza³ka
-Pogórze
+PogorzaÅ‚ka
+PogÃ³rze
 Pogorzela
-Pokój
+PokÃ³j
 Pokrzywna
 Pokrzywnica
 Polana
 Polanowice
 Polesie
 Polkowskie
-Po³owa
+PoÅ‚owa
 Polska Cerekiew
-Polska Nowa Wieœ
-Polski Œwiêtów
+Polska Nowa WieÅ›
+Polski ÅšwiÄ™tÃ³w
 Pomorzowice
 Pomorzowiczki
-Popielów
+PopielÃ³w
 Popielowska Kolonia
-Por¹bki
-Porêba
+PorÄ…bki
+PorÄ™ba
 Posucice
 Poznowice
-Pr¹dy
+PrÄ…dy
 Praszka
-Prêdocin
-Prê¿yna
-Prê¿ynka
-Proœlice
+PrÄ™docin
+PrÄ™Å¼yna
+PrÄ™Å¼ynka
+ProÅ›lice
 Prosna
-Prószków
+PrÃ³szkÃ³w
 Prudnik
 Prusinowice
-Prusków
-Przechód
+PruskÃ³w
+PrzechÃ³d
 Przecza
-Przeczów
+PrzeczÃ³w
 Przedborowice
-Przedmoœæ
-Prze³êk
-Przewóz
-Przydro¿e Ma³e
-Przydro¿e Wielkie
+PrzedmoÅ›Ä‡
+PrzeÅ‚Ä™k
+PrzewÃ³z
+PrzydroÅ¼e MaÅ‚e
+PrzydroÅ¼e Wielkie
 Przylesie
 Przylesie Dolne
 Przysiecz
 Przywory
-Psurów
+PsurÃ³w
 Pszczonki
 Pszeniczna
 Ptakowice
-Pustków
+PustkÃ³w
 Puszyna
-Raciszów
-Rac³awice Œl¹skie
-Rac³awiczki
-R¹czka
+RaciszÃ³w
+RacÅ‚awice ÅšlÄ…skie
+RacÅ‚awiczki
+RÄ…czka
 Radawie
 Radlina
-Rad³ów
+RadÅ‚Ã³w
 Radomierowice
 Radomil
 Radostynia
 Radoszowice
 Radoszowy
 Radynia
-Radziejów
+RadziejÃ³w
 Radzikowice
-Raków
+RakÃ³w
 Raszowa
 Raszowa
 Ratnowice
 Redwina
 Regulice
-Reñska Wieœ
-Reñska Wieœ
+ReÅ„ska WieÅ›
+ReÅ„ska WieÅ›
 Rogalice
 Rogi
-Rogów
-Rogów Opolski
-Rogo¿any
+RogÃ³w
+RogÃ³w Opolski
+RogoÅ¼any
 Rosocha
 Rosochy
 Rostkowice
@@ -247,35 +247,35 @@ Roszkowice
 Roszkowice
 Roszowice
 Roszowicki Las
-Równe
-Rozkochów
+RÃ³wne
+RozkochÃ³w
 Rozmierka
 Rozmierz
-Ro¿ni¹tów
-Ro¿nów
+RoÅ¼niÄ…tÃ³w
+RoÅ¼nÃ³w
 Rozterk
 Rozumice
 Rozwadza
-Ró¿yna
+RÃ³Å¼yna
 Rudniki
 Rudziczka
 Rusocin
 Rutki
 Rybna
-Rychnów
+RychnÃ³w
 Rydzek
 Rynarcice
 Rysiowice
-Rzêdów
-Rzêdowice
-Rzêdziwojowice
+RzÄ™dÃ³w
+RzÄ™dowice
+RzÄ™dziwojowice
 Rzepcze
 Rzymiany
 Rzymkowice
 Sady
-Sarnów
+SarnÃ³w
 Sarnowice
-Sarny Ma³e
+Sarny MaÅ‚e
 Sarny Wielkie
 Schodnia
 Sidzina
@@ -285,16 +285,16 @@ Siedlice
 Siedliska
 Siedliska
 Sielska Woda
-Siemys³ów
+SiemysÅ‚Ã³w
 Sieroniowice
-Sieros³awice
+SierosÅ‚awice
 Siestrzechowice
-Ska³¹gi
+SkaÅ‚Ä…gi
 Skarbimierz
 Skarbimierz-Osiedle
-Skarbiszów
+SkarbiszÃ³w
 Skarbiszowice
-Skorochów
+SkorochÃ³w
 Skorogoszcz
 Strzelce Opolskie
-Wê¿owice
+WÄ™Å¼owice
